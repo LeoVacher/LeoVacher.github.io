@@ -1,14 +1,14 @@
 ---
-title: "Astrophysical and local constraints on string theory: Runaway dilaton models"
+title: "Generative Models of Multi-channel Data from a Single Example -- Application to Dust Emission"
 collection: publications
-excerpt: 'C.J.A.P. Martins and **L. Vacher**'
-date: 2019-12-01
-permalink: /publication/2019-12-01-dilaton
-venue: 'Physical Review Letter D'
-paperurl: 'https://arxiv.org/pdf/1911.10821.pdf'
-citation: 'Martins and Vacher, "Astrophysical and local constraints on string theory: runaway dilaton models." Phys. Rev. D 100, 123514 (2019)'
+excerpt: 'B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F. Levrier, ** L. Vacher**, S. Zhang'
+date: 2022-08-06
+permalink: /publication/2022-08-06-multifreq-WPH
+venue: 'submitted to ApJ'
+paperurl: 'https://arxiv.org/pdf/2208.03538.pdf'
+citation: 'Régaldo-Saint Blancard et al, Generative Models of Multi-channel Data from a Single Example -- Application to Dust Emission (2022)'
 ---
-One of the clear predictions of string theory is the presence of a dynamical scalar partner of the spin-2 graviton, known as the dilaton. This will violate the Einstein Equivalence Principle, leading to a plethora of possibly observable consequences which is a cosmological context include dynamical dark energy and spacetime variations of nature's fundamental constants. The runaway dilaton scenario of Damour, Piazza and Veneziano is a particularly interesting class of string theory inspired models which can in principle reconcile a massless dilaton with experimental data. Here we use the latest background cosmology observations, astrophysical and laboratory tests of the stability of the fine-structure constant and local tests of the Weak Equivalence Principle to provide updated constraints on this scenario, under various simplifying assumptions. Overall we find consistency with the standard ΛCDM paradigm, and we improve the existing constraints on the coupling of the dilaton to baryonic matter by a factor of six, and to the dark sector by a factor of two. At the one sigma level the current data already excludes dark sector couplings of order unity, which would be their natural value.
+The quest for primordial B-modes in the cosmic microwave background has emphasized the need for refined models of the Galactic dust foreground. Here, we aim at building a realistic statistical model of the multi-frequency dust emission from a single example. We introduce a generic methodology relying on microcanonical gradient descent models conditioned by an extended family of wavelet phase harmonic (WPH) statistics. To tackle the multi-channel aspect of the data, we define cross-WPH statistics, quantifying non-Gaussian correlations between maps. Our data-driven methodology could apply to various contexts, and we have updated the software PyWPH, on which this work relies, accordingly. Applying this to dust emission maps built from a magnetohydrodynamics simulation, we construct and assess two generative models of: 1) a (I,E,B) multi-observable input, 2) a {Iν}ν multi-frequency input. The samples exhibit consistent features compared to the original maps. A statistical analysis of 1) shows that the power spectra, distributions of pixels, and Minkowski functionals are captured to a good extent. We analyze 2) by fitting the spectral energy distribution (SED) of both the synthetic and original maps with a modified blackbody (MBB) law. The maps are equally well fitted, and a comparison of the MBB parameters shows that our model succeeds in capturing the spatial variations of the SED from the data. Besides the perspectives of this work for dust emission modeling, the introduction of cross-WPH statistics opens a new avenue to characterize non-Gaussian interactions across different maps, which we believe will be fruitful for astrophysics.
 
-[Download paper here](https://arxiv.org/pdf/1911.10821.pdf)
+[Download paper here](https://arxiv.org/pdf/2208.03538.pdf)
 
