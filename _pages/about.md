@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. You can find my full CV [here](files/CV.pdf).
+After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. You can find a detailled CV [here](files/CV.pdf).
 
 My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics. 
 In this framework, I am an active member of the LiteBIRD and the Euclid collaborations.
