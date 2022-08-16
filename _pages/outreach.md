@@ -11,7 +11,6 @@ author_profile: true
 - [UniverSciel](https://www.google.com/search?client=opera&q=Universciel&sourceid=opera&ie=UTF-8&oe=UTF-8)
 - [UPS in space](https://www.upsinspace.com).
 
-
 ### Online activities
 
 - [Exploreur](https://www.univ-tlse3.fr/exploreur-litebird-en-quete-des-premieres-fractions-de-secondes-de-l-univers)
