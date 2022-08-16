@@ -23,7 +23,7 @@ I am trying to understand the physics of the interstellar medium of our own gala
 
 Concerning new physics, I am seeking for the limits of our standard models of particle physics and gravity by constraining models allowing for variation of fundamental constants, in direct violation with the Einstein equivalence principle, a cornerstone of general relativity (and all metric theories of gravity).
 
-A list of my publications can be found on this website and also on [scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), [arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Vacher%2C+L), [inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), [researchGate](https://www.researchgate.net/profile/Leo-Vacher) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
+A list of my publications can be found on this website and also on [Scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), [Arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Vacher%2C+L), [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), [ResearchGate](https://www.researchgate.net/profile/Leo-Vacher) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
 
 ## Referees
 
