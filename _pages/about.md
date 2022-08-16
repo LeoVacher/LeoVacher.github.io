@@ -27,7 +27,7 @@ In collaboration with [Bastien Carreres](https://bcarreres.github.io), I also ma
 
 # Outreach 
 
-I am involved in several outreach activities. You can find some of my online contributions at:
+I am involved in several outreach activities. More infos can be found on this website. You can find some of my online contributions at:
 - [Exploreur](https://www.univ-tlse3.fr/exploreur-litebird-en-quete-des-premieres-fractions-de-secondes-de-l-univers)
 - [Pulsar](https://www.nfist.pt/pulsar/pulsar41)
 - [Yolonomy](https://yolonomy.github.io)
