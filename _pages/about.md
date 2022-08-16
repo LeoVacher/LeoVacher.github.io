@@ -25,7 +25,7 @@ I am teaching several fields at [Université Paul Sabatier](https://www.univ-tls
 
 # Outreach 
 
-You can find some of my outreachs contributions at:
+I am involved in several outreach activities. You can find some of my online contributions at:
 - [Exploreur](https://www.univ-tlse3.fr/exploreur-litebird-en-quete-des-premieres-fractions-de-secondes-de-l-univers)
 - [Pulsar](https://www.nfist.pt/pulsar/pulsar41)
 - [Yolonomy](https://yolonomy.github.io)
