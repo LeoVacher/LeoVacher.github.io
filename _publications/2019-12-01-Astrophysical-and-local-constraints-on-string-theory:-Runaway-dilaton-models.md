@@ -1,7 +1,6 @@
 ---
 title: "Astrophysical and local constraints on string theory: Runaway dilaton models"
 collection: publications
-permalink: /publication/2019-12-01-Astrophysical-and-local-constraints-on-string-theory:-Runaway-dilaton-models
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2019-12-01
 venue: 'Physical Review Letter D'
