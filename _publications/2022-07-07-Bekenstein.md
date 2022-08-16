@@ -3,7 +3,7 @@ title: "Constraints on extended Bekenstein models from cosmological, astrophysic
 collection: publications
 excerpt: '**L. Vacher**, J. F. Dias, N. Schöneberg, C. J. A. P. Martins, S. Vinzl, S. Nesseris, G. Cañas-Herrera, M. Martinelli'
 date: 2022-07-07
-permalink: /publication/2022-07-07-Bekenstein copie
+permalink: /publication/2022-07-07-Bekenstein
 venue: 'Submitted to Physical Review Letter D'
 paperurl: 'https://arxiv.org/pdf/2207.03258.pdf'
 citation: 'Constraints on extended Bekenstein models from cosmological, astrophysical, and local data." (2022)'
