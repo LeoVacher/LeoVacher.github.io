@@ -21,7 +21,9 @@ A list of my publications can be found on this website and also on [scholar](htt
 
 # Teachings 
 
-I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr). In collaboration with [Bastien Carreres](https://bcarreres.github.io), I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
+I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr). The detail of the classes can be found on this website.
+
+In collaboration with [Bastien Carreres](https://bcarreres.github.io), I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
 
 # Outreach 
 
@@ -35,11 +37,10 @@ I am also an active member in several associative projects as
 - [UniverSciel](https://www.google.com/search?client=opera&q=Universciel&sourceid=opera&ie=UTF-8&oe=UTF-8)
 - [UPS in space](https://www.upsinspace.com).
 
-<!-- # Philosophy of science
+# Philosophy of science
 
 I am currently doing a master's degree in [logic, history and philosophy of sciences](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead).
 I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity.
- -->
 
 ## Referees
 
