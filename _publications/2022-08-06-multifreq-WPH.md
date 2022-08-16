@@ -1,7 +1,7 @@
 ---
 title: "Generative Models of Multi-channel Data from a Single Example -- Application to Dust Emission"
 collection: publications
-excerpt: 'B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F. Levrier, ** L. Vacher**, S. Zhang'
+excerpt: 'B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F. Levrier, **L. Vacher**, S. Zhang'
 date: 2022-08-06
 permalink: /publication/2022-08-06-multifreq-WPH
 venue: 'submitted to ApJ'

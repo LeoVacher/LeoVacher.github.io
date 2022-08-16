@@ -1,7 +1,7 @@
 ---
 title: "Dust polarization spectral dependence from Planck HFI data. Turning point on CMB polarization foregrounds modelling"
 collection: publications
-excerpt: 'A. Ritacco, F. Boulanger, V. Guillet, J.M. Delouis, J.L. Puget, J. Aumont, **L. Vacher**.'
+excerpt: 'A. Ritacco, F. Boulanger, V. Guillet, J.M. Delouis, J.L. Puget, J. Aumont, **L. Vacher**'
 date: 2022-06-15
 permalink: /publication/2022-06-15-Planckdust
 venue: 'Submitted to A&A'
