@@ -2,7 +2,7 @@
 title: "High precision modeling of polarized signals: moment expansion method generalized to spin-2 fields"
 collection: publications
 permalink: /publication/2022-05-03-spin-moments
-excerpt: '**L. Vacher**,Jens Chluba, Jonathan Aumont, Aditya Rotti, Ludovic Montier'
+excerpt: '**L. Vacher**, J. Chluba, J. Aumont, A. Rotti, L. Montier'
 date: 2022-05-03
 venue: 'Submitted to A&A'
 paperurl: 'http://academicpages.github.io/files/paper3.pdf'
