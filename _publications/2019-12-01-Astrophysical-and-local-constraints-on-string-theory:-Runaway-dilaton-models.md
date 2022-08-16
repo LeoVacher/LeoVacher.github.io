@@ -1,7 +1,9 @@
 ---
 title: "Astrophysical and local constraints on string theory: Runaway dilaton models"
 collection: publications
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
+excerpt: 'C.J.A.P. Martins and L. Vacher
+	
+	Dilaton description'
 date: 2019-12-01
 venue: 'Physical Review Letter D'
 paperurl: 'http://academicpages.github.io/files/paper1.pdf'
