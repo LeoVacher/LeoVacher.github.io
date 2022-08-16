@@ -17,35 +17,14 @@ Concerning new physics, I am seeking for the limits of our standard models of pa
 
 In this framework, I am an active member of the [LiteBIRD](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html) and the [Euclid](https://www.euclid-ec.org)collaborations.
 
-Beside research, I am involved in several teaching and outreach activities. On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories and gauge interpretations of gravity.
+Beside research, I am involved in several teaching and outreach activities. I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr). The detail of the classes can be found on this website. In collaboration with [Bastien Carreres](https://bcarreres.github.io), I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
+
+On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories and gauge interpretations of gravity.
+
 
 # Research
 
 A list of my publications can be found on this website and also on [scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), [arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Vacher%2C+L), [inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), [researchGate](https://www.researchgate.net/profile/Leo-Vacher) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
-
-
-# Teachings 
-
-I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr). The detail of the classes can be found on this website.
-
-In collaboration with [Bastien Carreres](https://bcarreres.github.io), I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
-
-# Outreach 
-
-I am involved in several outreach activities. More infos can be found on this website. You can find some of my online contributions at:
-- [Exploreur](https://www.univ-tlse3.fr/exploreur-litebird-en-quete-des-premieres-fractions-de-secondes-de-l-univers)
-- [Pulsar](https://www.nfist.pt/pulsar/pulsar41)
-- [Yolonomy](https://yolonomy.github.io)
-
-I am also an active member in several associative projects as
-- [Les étoiles brillent pour tous](http://ebpt.fr/association/)
-- [UniverSciel](https://www.google.com/search?client=opera&q=Universciel&sourceid=opera&ie=UTF-8&oe=UTF-8)
-- [UPS in space](https://www.upsinspace.com).
-
-# Philosophy of science
-
-I am currently doing a master's degree in [logic, history and philosophy of sciences](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead).
-I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity.
 
 ## Referees
 
