@@ -19,9 +19,11 @@ On my free time, I am also studying for a [master's degree](https://philo.shs-na
 
 # Research interests
 
-I am trying to understand the physics of the interstellar medium of our own galaxy in order to model accurately its polarized signal. I am especially interested by microwave thermal dust radiation. Understanding this signal is of first importance not only for astrophysics but in order to remove the foreground signal of the Milky Way to seek for new fundamental physics in the cosmic microwave background.
+I am trying to understand the physics of the interstellar medium of our own galaxy in order to model accurately its polarized signal. I am especially interested by the microwave thermal dust radiation. Understanding this signal is of first importance not only for astrophysics but in order to remove the foreground signal of the Milky Way to seek for new fundamental physics in the cosmic microwave background (CMB) radiation.
 
-Concerning new physics, I am seeking for the limits of our standard models of particle physics and gravity by constraining models allowing for variation of fundamental constants, in direct violation with the Einstein equivalence principle, a cornerstone of general relativity (and all metric theories of gravity).
+I am also involved in the instrumental design of the [LiteBIRD](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html) instruments. My work focuses on the optimization of the scanning strategy of the instrument and the impact of large scale asymetries of the far side lobes on the measurement of the tensor-to-scalar ratio, the smoking gun for cosmic inflation.
+
+Concerning new physics, I am seeking for the limits of our standard models of particle physics and gravity by constraining models allowing for variation of fundamental constants, in direct violation with the Einstein equivalence principle, a cornerstone of general relativity (and all metric theories of gravity). I am investigating how experiments like [Euclid](https://www.euclid-ec.org) and future CMB missions could tests these effects.
 
 A list of my publications can be found on this website and also on [Scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), [Arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Vacher%2C+L), [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), [ResearchGate](https://www.researchgate.net/profile/Leo-Vacher) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
 
