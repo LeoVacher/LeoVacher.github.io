@@ -7,18 +7,16 @@ venue: "Meeting"
 date: 
 location: "IAP, Paris"
 ---
-National meeting on CMB thematics.
+National meeting on CMB thematics. More informations on the [conference website](https://cmb-france.cnrs.fr).
 
 CMB France #1
 ========
-Spin-moments.
+Moment expansion: a new path towards capturing the CMB B-modes with LiteBIRD. Slides available [here](https://indico.in2p3.fr/event/24217/timetable/#20210603.detailed).
 
 CMB France #2
 ========
-Spin-moments.
+Moment expansion and the challenge of polarized dust SED complexity for B mode detections. Slides available [here](https://indico.in2p3.fr/event/25032/timetable/#20211116.detailed).
 
 CMB France #3
 ========
-Spin-moments.
-More informations on the [conference website](https://indico.in2p3.fr/event/27238/
-).
+High precision modeling of polarized signals. Slides available [here](https://indico.in2p3.fr/event/27238/timetable/#20220621.detailed).
