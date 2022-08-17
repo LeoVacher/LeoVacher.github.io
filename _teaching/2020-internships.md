@@ -1,7 +1,7 @@
 ---
 title: "Internship supervisions"
 collection: teaching
-type: 
+type: "Internships"
 permalink: /teaching/2020-internships
 venue: "Université Paul Sabatier"
 date: 2020-01-01
