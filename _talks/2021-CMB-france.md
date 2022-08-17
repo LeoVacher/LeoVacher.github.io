@@ -2,7 +2,7 @@
 title: "CMB-france"
 collection: talks
 type: "Talk"
-permalink: /talks/2020-CMB-france
+permalink: /talks/2021-CMB-france
 venue: "Meeting"
 date: 2020-01-01
 location: "IAP, Paris"
