@@ -8,6 +8,8 @@ date: 2020-01-01
 location: "Toulouse, France"
 ---
 
+Supervision of student internships in research.
+
 Internship supervisions 
 ======
 - S. Vizyl (L2 - 7 months) - Extended Bekenstein model and study of the variation of fundamental constants.
