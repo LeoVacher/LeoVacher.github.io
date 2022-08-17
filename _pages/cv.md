@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-Link to my [CV](https://leovacher.github.io/files/cv.pdf) !
+Link to my [CV](https://leovacher.github.io/files/CV.pdf).
