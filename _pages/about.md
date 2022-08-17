@@ -27,7 +27,7 @@ A list of my publications can be found on this website and also on [Scholar](htt
 
 ## Referees
 
-Jonathan Aumont (PHD supervisor):jonathan.aumont@irap.omp.eu \\
-Ludovic Montier (PHD cosupervisor): ludovic.montier@irap.omp.eu \\
-Carlos J. A. P. Martins: 
-carlos.martins@astro.up.pt
+[Jonathan Aumont](jonathan.aumont@irap.omp.eu) (PHD supervisor): \\
+[Ludovic Montier](ludovic.montier@irap.omp.eu) (PHD cosupervisor)\\
+[Carlos J. A. P. Martins](carlos.martins@astro.up.pt)
+
