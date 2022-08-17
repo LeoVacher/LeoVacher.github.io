@@ -9,9 +9,7 @@ redirect_from:
 ---
 After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I am currently a PHD student at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) in Toulouse since 2020. You can find a detailled CV [here](files/CV.pdf).
 
-My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics. 
-
-In this framework, I am an active member of the [LiteBIRD](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html) and the [Euclid](https://www.euclid-ec.org) collaborations.
+My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics. In this framework, I am an active member of the [LiteBIRD](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html) and the [Euclid](https://www.euclid-ec.org) collaborations.
 
 Beside research, I am involved in several teaching and outreach activities. I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr). The detail of the classes can be found on this website. In collaboration with [Bastien Carreres](https://bcarreres.github.io), I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
 
