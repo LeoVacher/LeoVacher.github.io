@@ -2,7 +2,7 @@
 title: "Probing Cosmic Inflation with the *LiteBIRD* Cosmic Microwave Background Polarization Survey"
 collection: publications
 permalink: /publication/2022-02-06-PTEP-LiteBIRD
-excerpt: 'The *LiteBIRD* collaboration'
+excerpt: 'The *LiteBIRD* collaboration (including **L. Vacher**)'
 date: 2022-02-06
 venue: 'arxiv 2202.02773 (submitted to PTEP)'
 paperurl: 'https://arxiv.org/pdf/2202.02773.pdf'
