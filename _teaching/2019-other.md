@@ -1,7 +1,7 @@
 ---
 title: "Other teaching duties"
 collection: teaching
-type: "various"
+type: "teaching"
 permalink: /teaching/2019-other
 venue: "Various"
 date: 2019-01-01
