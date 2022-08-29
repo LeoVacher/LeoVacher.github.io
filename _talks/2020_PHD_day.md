@@ -1,5 +1,5 @@
 ---
-title: "IRAP PHD-Day"
+title: "IRAP PHD-Day(s)"
 collection: talks
 type: "Talk"
 permalink: /talks/2020-PHD_Day
