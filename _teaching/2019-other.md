@@ -5,7 +5,7 @@ type: "teaching"
 permalink: /teaching/2019-other
 venue: "Various"
 date: 2019-01-01
-location: "Various"
+location: "France"
 ---
 
 Here are some other teaching duties I contributed to.

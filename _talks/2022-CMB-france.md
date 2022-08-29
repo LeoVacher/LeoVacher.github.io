@@ -1,5 +1,5 @@
 ---
-title: "CMB-france"
+title: "CMB-France"
 collection: talks
 type: "Talk"
 permalink: /talks/2021-CMB-france
