@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2021-CMB-france
 venue: "Meeting"
-date: 2020-01-01
+date: 2022-01-01
 location: "IAP, Paris"
 ---
 National meeting on CMB thematics. More informations on the [conference website](https://cmb-france.cnrs.fr).
