@@ -12,6 +12,6 @@ Supervision of student research internships (Click for more information).
 
 Internship supervisions 
 ======
-- S. Vizyl (L2 - 7 months) - Extended Bekenstein model and study of the variation of fundamental constants.
+- S. Vinzl (L2 - 7 months) - Extended Bekenstein model and study of the variation of fundamental constants.
 
 - N. Gentil (L2 - 7 months) - Quantifying the impact of Far Side Lobes asymmetries for the LiteBIRD mission. 
