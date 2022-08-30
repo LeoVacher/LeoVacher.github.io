@@ -8,7 +8,7 @@ date: 2020-01-01
 location: "Toulouse, France"
 ---
 
-Supervision of student research internships.
+Supervision of student research internships (Click for more information).
 
 Internship supervisions 
 ======
