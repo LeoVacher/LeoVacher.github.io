@@ -7,7 +7,7 @@ venue: "Meeting"
 date: 2022-01-01
 location: "IAP, Paris"
 ---
-National meeting on CMB thematics. More informations on the [conference website](https://cmb-france.cnrs.fr).
+National meeting on CMB thematics. Slides and more informations on the [conference website](https://cmb-france.cnrs.fr).
 
 CMB France #1
 ========
