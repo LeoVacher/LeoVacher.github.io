@@ -28,4 +28,4 @@ On my free time, I am a musician and music lover. For more than 8 years now, I p
 
 On the sport side, I go climbing multiple times a week and when I can, I love practicing sliding sports as surf, longboard and bodyboard. 
 
-I am also crazy about biology, botanics and underwater life. 
+I am also a huge biology nerd, reading a lot about genetics, botanics and marine life. 
