@@ -16,7 +16,7 @@ During my PHD, I attended to several research schools, as
 ## Philosophy of sciences and differential geometry
 
 I am currently doing a master's degree in [logic, history and philosophy of sciences](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead).
-I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity.
+I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity with a strong grounding in differential geometry.
 
 You can find here some of my short essays:
 - [philosophy of mathematics](https://leovacher.github.io/files/Philo_maths_Vacher.pdf) (french). On the identity of indescirnables in mathematical structuralism.
@@ -28,4 +28,4 @@ On my free time, I am a musician and music lover. For more than 8 years now, I p
 
 On the sport side, I go climbing multiple times a week and when I can, I love practicing sliding sports as surf, longboard and bodyboard. 
 
-I am also a huge biology nerd, reading a lot about genetics, botanics and marine life. 
+I am also a huge biology nerd, reading a lot about genetics, botanic and marine life. 
