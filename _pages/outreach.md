@@ -5,7 +5,7 @@ permalink: /outreach/
 author_profile: true
 ---
 
-### Writtings.
+### Writtings
 
 I am involved in several outreach activities. More infos can be found on this website. You can find some of my online contributions at
 - [Exploreur](https://exploreur.univ-toulouse.fr/litebird-en-quete-des-premieres-fractions-de-secondes-de-lunivers). Writting the web-article «$LiteBIRD$ en quête des premières fractions de secondes de l’Univers.»
