@@ -11,7 +11,7 @@ After a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-prog
 
 My research interests are centered on observational cosmology, gravitation theory and galactic astrophysics. In this framework, I am an active member of the [*LiteBIRD*](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html) and the [*Euclid*](https://www.euclid-ec.org) collaborations.
 
-Beside research, I am involved in several teaching and outreach activities. I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr). The detail of the classes can be found on this website. In collaboration with [Bastien Carreres](https://bcarreres.github.io), I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
+Beside research, I am involved in several teaching and outreach activities. I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr). The detail of the classes can be found on this website. In collaboration with [Bastien Carreres](bastiencarreres.github.io), I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
 
 On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories and gauge interpretations of gravity.
 
