@@ -17,6 +17,6 @@ B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F
 ### The LiteBIRD instrument
 # 2022
 
-### High energy physics
+### Stability of fundamental constants
 
 # 2022
