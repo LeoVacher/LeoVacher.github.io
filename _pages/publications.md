@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Foreground modelling
+### Galactic physics and component separation
 
 - [*Generative Models of Multi-channel Data from a Single Example – Application to Dust Emission*](_publications/2022-08-06-multifreq-WPH)\\
 B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F. Levrier, *L. Vacher*, S. Zhang\\
@@ -14,4 +14,4 @@ B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F
 
 ### The LiteBIRD instrument
 
-### Component separation
+### High energy physics
