@@ -7,7 +7,7 @@ author_profile: true
 
 ### Galactic physics and component separation
 
-# 2022 
+#### 2022 
 
 - [*Generative Models of Multi-channel Data from a Single Example – Application to Dust Emission*](https://leovacher.github.io/_publications/2022-08-06-multifreq-WPH.md)\\
 B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F. Levrier, *L. Vacher*, S. Zhang\\
@@ -15,8 +15,8 @@ B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F
 
 
 ### The LiteBIRD instrument
-# 2022
+#### 2022
 
 ### Stability of fundamental constants
 
-# 2022
+#### 2022
