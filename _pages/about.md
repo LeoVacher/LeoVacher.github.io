@@ -15,7 +15,7 @@ Beside research, I am involved in several teaching and outreach activities. I am
 
 On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories and gauge interpretations of gravity.
 
-### Research interests
+## Research interests
 
 I am trying to understand the physics of the interstellar medium of our own galaxy in order to model accurately its polarized signal. I am especially interested by the microwave thermal dust radiation. Understanding this signal is of first importance not only for astrophysics but in order to remove the foreground signal of the Milky Way to seek for new fundamental physics in the cosmic microwave background (CMB) radiation.
 
@@ -25,7 +25,7 @@ Unveiling the primordial signal of the CMB will ultimately provide information t
 
 A list of my publications can be found on this website and also on [Scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1), [Arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=Vacher%2C+L), [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), [ResearchGate](https://www.researchgate.net/profile/Leo-Vacher) or [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
 
-### References
+## References
 
 PHD supervisor: [Jonathan Aumont](jonathan.aumont@irap.omp.eu) \\
 PHD co-supervisor: [Ludovic Montier](ludovic.montier@irap.omp.eu)
