@@ -9,7 +9,7 @@ You can access all my papers and citation metrics on [ADS](https://ui.adsabs.har
 
 ### 2022 
 
-- underscored text </u>Constraints on extended Bekenstein models from cosmological, astrophysical, and local dataunderscored text </u>\\
+- \underline{Constraints on extended Bekenstein models from cosmological, astrophysical, and local dataunderscored text} \\
 **L. Vacher**, J. F. Dias, N. Schöneberg, C. J. A. P. Martins, S. Vinzl, S. Nesseris, G. Cañas-Herrera, M. Martinelli\\
 [PhysRevD.106.083522](https://arxiv.org/pdf/2207.03258.pdf)
 
