@@ -15,7 +15,7 @@ Beside research, I am involved in several teaching and outreach activities. I am
 
 On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories and gauge interpretations of gravity.
 
-# Research interests
+### Research interests
 
 I am trying to understand the physics of the interstellar medium of our own galaxy in order to model accurately its polarized signal. I am especially interested by the microwave thermal dust radiation. Understanding this signal is of first importance not only for astrophysics but in order to remove the foreground signal of the Milky Way to seek for new fundamental physics in the cosmic microwave background (CMB) radiation.
 
