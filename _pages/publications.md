@@ -5,7 +5,17 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Galactic physics and component separation
+{% if author.googlescholar %}
+  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
+{% endif %}
+
+{% include base_path %}
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<!-- ### Galactic physics and component separation
 
 #### 2022 
 
@@ -19,4 +29,4 @@ B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F
 
 ### Stability of fundamental constants
 
-#### 2022
+#### 2022 -->
