@@ -10,13 +10,3 @@ B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F
 [arxiv 2208.03538](https://arxiv.org/pdf/2208.03538.pdf) (submitted to ApJ)
 
 
-
-{% if author.googlescholar %}
-  You can also find my articles on <u><a href="{{author.googlescholar}}">my Google Scholar profile</a>.</u>
-{% endif %}
-
-{% include base_path %}
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
