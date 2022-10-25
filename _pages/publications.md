@@ -9,7 +9,7 @@ You can access all my papers and citation metrics on [ADS](https://ui.adsabs.har
 
 ### 2022 
 
-- **<u>Constraints on extended Bekenstein models from cosmological, astrophysical, and local data</u>**\\
+- **Constraints on extended Bekenstein models from cosmological, astrophysical, and local data**\\
 **L. Vacher**, J. F. Dias, N. Schöneberg, C. J. A. P. Martins, S. Vinzl, S. Nesseris, G. Cañas-Herrera, M. Martinelli\\
 [PhysRevD.106.083522](https://arxiv.org/pdf/2207.03258.pdf)
 
@@ -17,7 +17,7 @@ You can access all my papers and citation metrics on [ADS](https://ui.adsabs.har
 B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F. Boulanger, M. Eickenberg, F. Levrier, **L. Vacher**, S. Zhang\\
 [arXiv 2208.03538](https://arxiv.org/pdf/2208.03538.pdf) (submitted to ApJ)
 
-- **Dust polarization spectral dependence from Planck HFI data. Turning point on CMB polarization foregrounds modelling\\
+- **Dust polarization spectral dependence from Planck HFI data. Turning point on CMB polarization foregrounds modelling**\\
 A. Ritacco, F. Boulanger, V. Guillet, J.M. Delouis, J.L. Puget, J. Aumont, **L. Vacher**\\
 [arXiv 2206.07671](https://arxiv.org/pdf/2206.07671.pdf) (submitted to A&A)
 
