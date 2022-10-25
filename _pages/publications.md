@@ -9,7 +9,7 @@ You can access all my papers and citation metrics on [ADS](https://ui.adsabs.har
 
 ### 2022 
 
-- [Constraints on extended Bekenstein models from cosmological, astrophysical, and local data](https://leovacher.github.io/publication/2022-07-07-Bekenstein)\\
+- <span style="color:black">[Constraints on extended Bekenstein models from cosmological, astrophysical, and local data](https://leovacher.github.io/publication/2022-07-07-Bekenstein) text</span>\\
 **L. Vacher**, J. F. Dias, N. Schöneberg, C. J. A. P. Martins, S. Vinzl, S. Nesseris, G. Cañas-Herrera, M. Martinelli\\
 [PhysRevD.106.083522](https://arxiv.org/pdf/2207.03258.pdf)
 
