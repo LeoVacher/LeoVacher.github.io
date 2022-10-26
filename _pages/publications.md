@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-You can access all my papers and citation metrics on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
+You can also access all my publications and citation metrics on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc).
 
 ### 2022 
 
