@@ -9,6 +9,10 @@ You can also access all my publications and citation metrics on [ADS](https://ui
 
 ### 2022 
 
+- **Frequency dependence of the thermal dust E/B ratio and EB correlation: insights from the spin-moment expansion**\\
+*L. Vacher, J. Aumont, F. Boulanger, L. Montier, V. Guillet, A. Ritacco, J. Chluba*\\
+Submitted to A&A, preprint at [arXiv:2210.14768](https://arxiv.org/abs/2210.14768)
+
 - **Constraints on extended Bekenstein models from cosmological, astrophysical, and local data**\\
 *L. Vacher, J. F. Dias, N. Schöneberg, C. J. A. P. Martins, S. Vinzl, S. Nesseris, G. Cañas-Herrera, M. Martinelli*\\
 [PhysRevD.106.083522](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.083522), preprint at [arXiv:2207.03258](https://arxiv.org/pdf/2207.03258.pdf)
