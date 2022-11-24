@@ -13,7 +13,7 @@ During my PHD, I attended to several research schools, as
 - The [4th Azores School on Observational Cosmology](http://www.iastro.pt/research/conferences/azores21/): "Fundamental cosmology from the ELT and space". In 2021 at Angra do Heroísmo, Açores, Portugal.
 
 
-### Philosophy of sciences and differential geometry
+### Philosophy of sciences and gauge theories
 
 I am currently doing a master's degree in [logic, history and philosophy of sciences](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead).
 I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity with a strong grounding in differential geometry.
