@@ -21,7 +21,7 @@ I would like to write a thesis on the interpretations of gauge theories and Gaug
 You can find here some of my short essays:
 - [philosophy of mathematics](https://leovacher.github.io/files/Philo_maths_Vacher.pdf) (french). On the identity of indescirnables in mathematical structuralism.
 - [philosophy of physics](https://leovacher.github.io/files/Devoir_philophy_Vacher.pdf) (french). On the role of experiment to probe physical hypothesis.
-- [philosophy of AI](https://leovacher.github.io/files/Philo_IA_Vacher) (french). On the ethics of artificial intelligence in contemporary society.
+- [philosophy of AI](https://leovacher.github.io/files/Philo_IA_Vacher.pdf) (french). On the ethics of artificial intelligence in contemporary society.
 
 
 ### Hobbies
