@@ -19,6 +19,7 @@ I am currently doing a master's degree in [logic, history and philosophy of scie
 I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity with a strong grounding in differential geometry.
 
 You can find here some of my short essays:
+- [philosophy of quantum mechanics](BQM.pdf) (french). On the inevitability of Copenhagen interpration of Quantum mechanics in the light of the existence of De-Broglie Bohm theory.
 - [philosophy of mathematics](https://leovacher.github.io/files/Philo_maths_Vacher.pdf) (french). On the identity of indescirnables in mathematical structuralism.
 - [philosophy of physics](https://leovacher.github.io/files/Devoir_philophy_Vacher.pdf) (french). On the role of experiment to probe physical hypothesis.
 - [philosophy of AI](https://leovacher.github.io/files/Philo_IA_Vacher.pdf) (french). On the ethics of artificial intelligence in contemporary society.
