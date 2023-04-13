@@ -16,7 +16,7 @@ During my PHD, I attended to several research schools, as
 ### Philosophy of sciences and gauge theories
 
 I am currently doing a master's degree in [logic, history and philosophy of sciences](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead).
-I would like to write a thesis on the interpretations of gauge theories and Gauge interpretation of gravity with a strong grounding in differential geometry.
+I would like to write a thesis on the interpretations of gauge theories and gauge interpretation of gravity and possible geometrisation of Yang-Mills theories rooted in differential geometry.
 
 You can find here some of my short essays:
 - [philosophy of quantum mechanics](BQM.pdf) (french). On the inevitability of Copenhagen interpration of Quantum mechanics in the light of the existence of De-Broglie Bohm theory.
