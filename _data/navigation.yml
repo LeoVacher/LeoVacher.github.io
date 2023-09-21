@@ -1,8 +1,8 @@
 # main links links
 main:
   - title: "Publications"
-    url: /publications/
-
+    #url: /publications/
+    url: https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc
   - title: "Talks"
     url: /talks/    
 
