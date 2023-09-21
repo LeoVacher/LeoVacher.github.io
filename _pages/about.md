@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-After a magister coupled to a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I did my PHD in astrophysics and cosmology at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) from 2020 to 2023. I am currently a research fellow at the International school for advanced research ([SISSA])(https://www.sissa.it/) in Trieste (Italy). You can find my detailled CV [here](files/CV.pdf).
+After a magister coupled to a [master's degree](https://master-physique.univ-grenoble-alpes.fr/le-programme/master-psc/) in particle physics and cosmology at the University Grenoble-Alpes, I did my PHD in astrophysics and cosmology at the Institut de recherche en astrophysique et planétologie ([IRAP](https://www.irap.omp.eu)) from 2020 to 2023. I am currently a research fellow at the International school for advanced research ([SISSA](https://www.sissa.it/)) in Trieste (Italy). You can find my detailled CV [here](files/CV.pdf).
 
 My research interests are centered on observational cosmology, gravitation theory and Galactic astrophysics. In this framework, I am an active member of the [*LiteBIRD*](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html) and the [*Euclid*](https://www.euclid-ec.org) collaborations.
 
