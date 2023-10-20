@@ -15,5 +15,8 @@ main:
   - title: "Other"
     url: /other/
 
+  - title: "Thesis"
+    url: /other/https://leovacher.github.io/files/Thesis-Vacher_compressed.pdf
+
   - title: "CV"
     url: https://leovacher.github.io/files/CV.pdf
