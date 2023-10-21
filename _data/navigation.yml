@@ -3,6 +3,7 @@ main:
   - title: "Publications"
     #url: /publications/
     url: https://inspirehep.net/authors/1969120?ui-citation-summary=true
+
   - title: "Talks"
     url: /talks/    
 
@@ -12,11 +13,11 @@ main:
   - title: "Outreach"
     url: /outreach/
         
-  - title: "Other"
-    url: /other/
-
   - title: "Thesis"
     url: https://leovacher.github.io/files/Thesis-Vacher_compressed.pdf
+
+  - title: "Other"
+    url: /other/
 
   - title: "CV"
     url: https://leovacher.github.io/files/CV.pdf
