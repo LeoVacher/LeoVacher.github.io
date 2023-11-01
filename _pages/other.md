@@ -20,7 +20,7 @@ I would like to write a thesis on the interpretations of gauge theories and gaug
 
 You can find here some of my short essays:
 - [philosophy of logic](https://leovacher.github.io/files/philo-logique-appr.pdf) (french). On Fitch's paradox of Knowability in epistemic logic.
-- [philosophy of mathematics](https://leovacher.github.io/files/philo_math_proof.pdf) (french). On the role of pictures in mathematical proofs.
+- [philosophy of mathematics](https://leovacher.github.io/files/philo_math_appr.pdf) (french). On the role of pictures in mathematical proofs.
 - [philosophy of logic](https://leovacher.github.io/files/Philosophie_de_la_logique.pdf) (french). On the links between logic and mathematics through the points of view of Henri Poincaré and Egbertus Jan Brouwer.
 - [philosophy of quantum mechanics](https://leovacher.github.io/files/BQM.pdf) (french). On the inevitability of Copenhagen interpration of Quantum mechanics in the light of the existence of De-Broglie Bohm theory.
 - [philosophy of mathematics](https://leovacher.github.io/files/Philo_maths_Vacher.pdf) (french). On the identity of indescirnables in mathematical structuralism.
