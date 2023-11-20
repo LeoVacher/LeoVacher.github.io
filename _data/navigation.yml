@@ -13,11 +13,11 @@ main:
   - title: "Outreach"
     url: /outreach/
         
-  - title: "Thesis"
-    url: https://leovacher.github.io/files/Thesis-Vacher.pdf
-
   - title: "Philo"
     url: /philo/
+
+  - title: "Thesis"
+    url: https://leovacher.github.io/files/Thesis-Vacher.pdf
 
   - title: "CV"
     url: https://leovacher.github.io/files/CV.pdf
