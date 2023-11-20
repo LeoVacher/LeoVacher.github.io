@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Philosophy of science"
-permalink: /other/
+permalink: /philo/
 author_profile: true
 ---
 
