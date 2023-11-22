@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Philosophy of science"
+title: "Philosophy of science (and more)"
 permalink: /philo/
 author_profile: true
 ---
