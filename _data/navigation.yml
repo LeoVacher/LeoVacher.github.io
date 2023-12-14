@@ -1,8 +1,8 @@
-# main links links
+# main links
 main:
   - title: "Publications"
-    #url: /publications/
-    url: https://inspirehep.net/authors/1969120?ui-citation-summary=true
+    url: /publications/
+    #url: https://inspirehep.net/authors/1969120?ui-citation-summary=true
 
   - title: "Talks"
     url: /talks/    
