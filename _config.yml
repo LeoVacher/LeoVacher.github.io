@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Léo Vacher"
 title_separator          : "-"
 name                     : &name "Léo Vacher"
-description              : &description "PHD student in astrophysics and cosmology at IRAP"
+description              : &description "PHD in astrophysics and cosmology"
 url                      : https://leovacher.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "LeoVacher/LeoVacher.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Léo Vacher"
   avatar           : "profile.png"
-  bio              : "PHD student in astrophysics and cosmology"
-  location         : "IRAP, France"
+  bio              : "PHD in astrophysics and cosmology"
+  location         : "SISSA, Italy"
   employer         :
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1"

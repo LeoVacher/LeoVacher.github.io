@@ -13,11 +13,11 @@ My research interests are centered on observational cosmology, gravitation theor
 
 Beside research, I am involved in several teaching and outreach activities. I am teaching several fields at [Université Paul Sabatier](https://www.univ-tlse3.fr). The detail of the classes can be found on this website. In collaboration with [Bastien Carreres](https://bastiencarreres.github.io/), I also make available some of my lecture notes and codes for teaching purposes on [Yolonomy](https://yolonomy.github.io).
 
-On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories and gauge interpretations of gravity.
+On my free time, I am also studying for a [master's degree](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead) in philosophy of science, aiming to write a thesis on the interpretations of gauge theories.
 
 ## Research interests
 
-I am trying to understand the physics of the interstellar medium of our own galaxy in order to model accurately its polarized signal. I am especially interested by the microwave thermal dust radiation. Understanding this signal is of first importance not only for astrophysics but in order to remove the foreground signal of the Milky Way to seek for new fundamental physics in the cosmic microwave background (CMB) radiation.
+I am trying to understand the physics of the interstellar medium of our own galaxy in order to model accurately its polarized signal. I am especially interested by the microwave thermal dust radiation. Understanding this signal is of first importance not only for astrophysics but also in order to remove the foreground signal of the Milky Way to seek for new fundamental physics in the cosmic microwave background (CMB) radiation.
 
 In this framework, I am also involved in the instrumental design of the [*LiteBIRD*](https://www.isas.jaxa.jp/en/missions/spacecraft/future/litebird.html) satellite. Besides foreground cleaning and galactic science, my work in the collaboration focuses on the optimization of the scanning strategy and the  the impact of large scale asymetries of the far side lobes on the measurement of the tensor-to-scalar ratio, the smoking gun for cosmic inflation.
 
