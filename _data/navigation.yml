@@ -1,5 +1,12 @@
 # main links
 main:
+  - title: "Research"
+    url: /research/
+    subfolderitems:
+      - name: "Home"
+        url: "../"
+        weight: 2
+    
   - title: "Publications"
     url: /publications/
     
@@ -14,6 +21,9 @@ main:
         
   - title: "Philosophy"
     url: /philo/
+
+  # - title: "Other"
+  #   url: /hobbies/
 
   - title: "Thesis"
     url: https://leovacher.github.io/files/Thesis-Vacher.pdf
