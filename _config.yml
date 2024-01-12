@@ -106,7 +106,7 @@ author:
   orcid            : "http://orcid.org/0000-0001-9551-1417"
   pinterest        :
   soundcloud       :
-  stackoverflow    : # http://stackoverflow.com/users/123456/username
+  stackoverflow    : "https://physics.stackexchange.com/users/390660/l%c3%a9o-vacher"
   steam            :
   tumblr           :
   twitter          : 
@@ -114,7 +114,7 @@ author:
   weibo            :
   xing             :
   youtube          :
-  wikipedia        :
+  wikipedia        : "https://fr.wikipedia.org/wiki/Sp%C3%A9cial:Contributions/L%C3%A9o_Vacher"
 
 
 # Reading Files
