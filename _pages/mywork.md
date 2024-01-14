@@ -29,7 +29,10 @@ In the subsequent paper [Fuskeland et al (2023)](https://www.aanda.org/articles/
 
 This component separation pipeline is still under devellopment and optimization in order to be applied to other scenarios of increasing generality and complexity. All my codes are available on this [GitHub page](https://github.com/LeoVacher/moments-crosscell).
 
-Moreover, I am currently adding the moment coefficients in other already existing component separation methods, as [fgbuster](https://github.com/fgbuster/fgbuster) or [commander](https://commander.bitbucket.io/) in order to see if they can help tackling complex foreground scenarios.
+Moreover, I am currently adding the moment coefficients in other already existing component separation methods, as [fgbuster](https://github.com/fgbuster/fgbuster) or [commander](https://commander.bitbucket.io/) in order to see if they can help tackling complex 
+foreground scenarios.
+
+I am also a member of the QUBIC collaboration, for which I project to use the moment expansion for component separation using the bolometric interferometry capabilities of the instrument.  
 
 ### Generalizing the moment expansion to polarization : the spin-moments
 
@@ -47,7 +50,7 @@ In CMB science, it is common to use the $E$ and $B$ decomposition in order to an
 
 ### Using moment expansion for Galactic science
 
-We further explored the moment expansion formalism to infer properties about the dust physics in [Ritacco et al (2023)](https://www.aanda.org/articles/aa/full_html/2023/02/aa44269-22/aa44269-22.html). This paper was the first one to detect a different spectral behaviour for the $E$- and $B$-modes power spectra of the dust residuals in data, giving us a clew for the developments about $E/B$ discussed in the previous section. As a direct follow up, we are currently preparing another work targeting dust properties using the spin-moment formalism directly at the map level [Guillet et al (in prep)].
+We further explored the moment expansion formalism to infer properties about the dust physics in [Ritacco et al (2023)](https://www.aanda.org/articles/aa/full_html/2023/02/aa44269-22/aa44269-22.html). This paper was the first one to detect a different spectral behaviour for the $E$- and $B$-modes power spectra of the dust residuals in data, giving us a clew for the developments about $E/B$ discussed in the previous section. As a direct follow up, we are currently preparing another work targeting dust properties using the spin-moment formalism directly at the map level [Guillet et al (in prep)]. 
 
 ### Scattering transform and more
 
