@@ -22,10 +22,11 @@ You can find here some of my short essays:
 
 <img src="/images/gauge.png" alt="image" width="100%" height="auto">
 
-I would like to write a thesis on the interpretations of gauge theories and gauge interpretation of gravity and possible geometrisation of Yang-Mills theories rooted in differential geometry. Here are some of my first writing related to this topic: 
+I would like to write a thesis on the interpretations of gauge theories and gauge interpretation of gravity and possible geometrisation of Yang-Mills theories rooted in differential geometry. Find here soon some of my first writings related to this topic!
+<!-- Here are some of my first writing related to this topic: 
 
 - [History of geodesic](https://leovacher.github.io/files/courbes-Vacher.pdf) curves from the end of the XVIIIth to the beggining of the XIXth century (french). 
-- [History of connections and gauge theories](https://leovacher.github.io/files/connexion-Vacher.pdf) in the XXth century.
+- [History of connections and gauge theories](https://leovacher.github.io/files/connexion-Vacher.pdf) in the XXth century. -->
 
 
 
