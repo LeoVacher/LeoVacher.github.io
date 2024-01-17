@@ -10,7 +10,7 @@ author_profile: true
 
 During my PHD thesis, I was a teaching assistant at [Université Paul Sabatier](https://www.univ-tlse3.fr) from 2020 to 2023. I was happily in charge of the following modules:
 
-- **Astrophysics (L3):** One semester of tutorials (12h) for an introduction to astrophysics in third year. [Kepler laws](https://yolonomy.github.io/meca/Newton/Kepler/), [black holes](https://leovacher.github.io/files/BH.pdf), [stellar evolution](https://leovacher.github.io/files/HR.pdf), [dark matter](https://leovacher.github.io/files/DM.pdf) and [cosmology](https://leovacher.github.io/files/cosmo.pdf) (links points to some of the slides/notes I used as illustrations in parallel of black board computations).
+- **Astrophysics (L3):** One semester of tutorials (12h) for an introduction to astrophysics in third year. [Kepler laws](https://yolonomy.github.io/meca/Newton/Kepler/), [black holes](https://leovacher.github.io/files/BH.pdf), [stellar evolution](https://leovacher.github.io/files/HR.pdf), [dark matter](https://leovacher.github.io/files/DM.pdf) and [cosmology](https://leovacher.github.io/files/cosmo.pdf) (links point to some of the slides/notes I used as illustrations in parallel of black board computations).
 
 - **Fluid mechanics (L2):** One semester of tutorials (14h). Detailled study of static, perfect and viscous fluids.
 
