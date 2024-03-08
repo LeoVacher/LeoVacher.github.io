@@ -53,7 +53,10 @@ polarization-foreground modeling</span>.” *Astron. Astrophys.* 670:
 A163. <https://doi.org/10.1051/0004-6361/202244269>.
 
 
-### Varying constants and gravity theories
+### Fundamental constants and gravity theory
+
+- **Vacher**, L. and N. Schöneberg. 2024. “<span class="nocase">Incompatibility of fine-structure constant variations at recombination with local observations</span>.”
+Submitted to *Phys. Rev. D*. preprint: arXiv:2403.02256. <https://arxiv.org/abs/2403.02256>.
 
 - **Vacher**, L., N. Schöneberg, J. D. F. Dias, C. J. A. P. Martins, and
 F. Pimenta. 2023. “<span class="nocase">Runaway dilaton models:
