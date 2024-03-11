@@ -10,21 +10,21 @@ author_profile: true
 
 During my PHD thesis, I was a teaching assistant at [Université Paul Sabatier](https://www.univ-tlse3.fr) from 2020 to 2023. I was happily in charge of the following modules:
 
-- **Astrophysics (L3):** One semester of tutorials (12h) for an introduction to astrophysics in third year. [Kepler laws](https://yolonomy.github.io/meca/Newton/Kepler/), [black holes](https://leovacher.github.io/files/BH.pdf), [stellar evolution](https://leovacher.github.io/files/HR.pdf), [dark matter](https://leovacher.github.io/files/DM.pdf) and [cosmology](https://leovacher.github.io/files/cosmo.pdf) (links point to some of the slides/notes I used as illustrations in parallel of black board computations. Find also some detailed notes [here](https://yolonomy.github.io/cosmo/cosmo/)).
+- **Astrophysics (L3):** One semester of tutorials (12h) for an introduction to astrophysics in third year. [Kepler laws](https://yolonomy.github.io/meca/Newton/Kepler/), [black holes](https://leovacher.github.io/files/BH.pdf), [stellar evolution](https://leovacher.github.io/files/HR.pdf), [dark matter](https://leovacher.github.io/files/DM.pdf) and [cosmology](https://leovacher.github.io/files/Cosmo.pdf) (links point to some of the slides/notes I used as illustrations in parallel of black board computations. Find also some detailed notes [here](https://yolonomy.github.io/cosmo/cosmo/)).
 
 - **Fluid mechanics (L2):** One semester of tutorials (14h). Detailled study of static, perfect and viscous fluids.
 
 - **Thermodynamics (L2):** Two semesters of tutorials for a total of three groups (45h) in thermodynamics in second year. Basic principles, equation of states, first (energy) and second (entropy) principles, thermodynamics functions, phase transitions. 
 
-- **Point mechanics (L1):** One semester of tutorials (15h) in Newtonian point mechanics in first year. Cinematics, dynamics and energetics.
+- **Point mechanics (L1):** One semester of tutorials (15h) in Newtonian point mechanics in first year. Kinematics, dynamics and energetics.
 
 - **Geometric/Ray optics (L1):** One semester of tutorials (16h). Snell-Descartes laws, plane and spherical medium transition, study of the human eye an its optical defects, lenses and mirrors.
 
-- **Labs (L1):** Labs in first year. Mechanics (21h) and electrocinetics (18h)
+- **Labs (L1):** Labs in first year. Mechanics (21h) and electrocinetics (18h).
 
 - **Light and color (L1):** Tutorials, supervision and evaluation of interdisciplinary student project about light (physics/biology/chemestry) in first year (18h).
 
-(L1, L2 and L3 correspond respecitvely to first second and third year of bachelor's degree). I am gradually transcripting and extending most of my lecture notes [here](https://yolonomy.github.io/).
+L1, L2 and L3 correspond respecitvely to first second and third year of bachelor's degree. I am gradually transcripting and extending most of my lecture notes [here](https://yolonomy.github.io/).
 
 ## Internship supervisions
 
