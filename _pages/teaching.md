@@ -28,7 +28,7 @@ L1, L2 and L3 correspond respecitvely to first second and third year of bachelor
 
 ## Internship supervisions
 
-- **J. Delhomelle (L2 - 2 months)** - Solving cosmological tensions with scalar field induced variations of fundamental constants. Lead to an [outreach publication](https://yolonomy.github.io/codes/cosmo/friedmann/).
+- **J. Delhomelle (L2 - 2 months)** - Solving cosmological tensions with scalar field induced variations of fundamental constants. Lead to an [outreach publication](https://yolonomy.github.io/cosmo/cosmo/friedmann/).
 
 - **S. Vinzl (L2 - 7 months) -** Extended Bekenstein model and study of the variation of fundamental constants. Lead to a [journal publication](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.083522).
 
