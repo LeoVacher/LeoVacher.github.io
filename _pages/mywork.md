@@ -60,7 +60,7 @@ Dust signal is not only complex is in the frequency space, but also in space. In
 
 <img src="/images/scan.png" alt="image" width="50%" height="auto">
 
-*Definition of the scanning strategy of $LiteBID$ (for explanations see [LiteBIRD Collaboration (20220)](https://doi.org/10.1093/ptep/ptac150))*
+*Definition of the scanning strategy of $LiteBID$ (for explanations see [LiteBIRD Collaboration (2020)](https://doi.org/10.1093/ptep/ptac150))*
 
 I am strongly invested in the $LiteBIRD$ collaboration. Besides my main work on foregrounds and component separation described above, I also work on the study of the impact of some systematic effects on the observations. Specifically, I worked on optimizing the scanning strategy of the instrument in [Takase et al (in prep)]. In this work, we investigate how and at which space the $LiteBIRD$ satellite will have to rotate on himself in order to observe the sky in a way that ease as much as possible the final data analysis. $LiteBIRD$ will be rotating around the "L2" lagrange point, a point behind the moon, where the gravitational attraction of the sun and the one of the earth perfectly balance one another. No need to say that it will be impossible to go back there and tune it after the start of the mission, so choices like this must be carefully made now.
 
@@ -74,6 +74,10 @@ I just joined the collaboration. Hopefully, some of my contributions will appear
 
 *Constraints on one of the scenarios of the runaway dilaton model using Monte Carlo Markov Chains and synergy of multiple modern datasets (for explanations see [Vacher et al (2023)](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.107.104002))*
 
+### Constant variations and CMB 
+
+In direct connection with my work on CMB, I investigated the limits on building a coherent model in which variations of the fine structure constant during the recombination epoch could help solving the infamous $H_0$ tension [Vacher and Schoneberg (2024)](https://arxiv.org/abs/2403.02256). 
+
 ### Scalar fields and String theory 
 
 As part of my work since my first year of master's internship in Porto (Portugal), I confronted some well motivated scalar field models expected to induce a space-time variation of the fundamental constants and a violation of the EEP (for more on this, see the dedicated section in my [research interests](/context/)). 
@@ -86,6 +90,6 @@ Finally, in [Schöneberg et al (2023)](https://iopscience.iop.org/article/10.108
 
 ### Using Euclid to probe gravity 
 
-I am also a member of the Euclid consortium, in which I investigate how this large cosmological survey can be used to probe the possible variations of the fundamental constants [Euclid collaboration (in prep)]
+I am also a member of the Euclid consortium, in which I investigate how this large cosmological survey can be used to probe the possible variations of the fundamental constants. In particular, we investigate how a varying fine structure constant can impact Euclid's observables as the matter power spectrum. Our results will be published soon in a collaboration paper [Euclid collaboration (in prep)].
 
 
