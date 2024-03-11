@@ -38,6 +38,6 @@ L1, L2 and L3 correspond respecitvely to first second and third year of bachelor
 
 Here are some other teaching duties I contributed to:
 
-- Marker for the [PLANCKS-2021]((https://2021.plancks.org)) event, cosmology session.
+- Marker for the [PLANCKS-2021](https://iaps.info/events/plancks/) event, cosmology session.
 - Employee of the [Insignis association](http://association-insignis.fr/) from 2017 to 2018 (Teaching mathematics to secondary and high school students classes).
 
