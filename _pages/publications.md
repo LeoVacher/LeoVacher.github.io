@@ -42,7 +42,7 @@ forecasts for extended LiteBIRD frequency configurations</span>.”
 - B. Régaldo-Saint Blancard, E. Allys, C. Auclair, F.
 Boulanger, M. Eickenberg, F. Levrier, L. **Vacher**, and S.
 Zhang. 2023. “<span class="nocase">Generative Models of Multichannel
-Data from a Single ExampleApplication to Dust Emission</span>.”
+Data from a Single Example: Application to Dust Emission</span>.”
 *Astrophys. J.* 943 (1): 9. <https://doi.org/10.3847/1538-4357/aca538>.
 
 - Ritacco, A., F. Boulanger, V. Guillet, J.M.
