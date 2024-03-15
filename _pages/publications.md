@@ -114,22 +114,4 @@ cosmological implications</span>.” *JCAP* 01 (01): 039. <https://doi.org/10.10
 requirements for CMB B-mode experiments. Application to the LiteBIRD
 satellite</span>.” *JCAP* 04 (04): 029. <https://doi.org/10.1088/1475-7516/2022/04/029>.
 
-### QUBIC
-
-- Mennella, A. et al. 2023. “<span class="nocase">Measuring the CMB
-primordial B-modes with Bolometric Interferometry</span>.” In
-*<span class="nocase">mm Universe 2023</span>:
-<span class="nocase">Observing the mm Universe at mm
-wavelengths</span>*. <https://arxiv.org/abs/2311.02779>.
-	
-- O’Sullivan, C. et al. 2023. “<span class="nocase">QUBIC The Q & U
-Bolometric Interferometer for Cosmology</span>.” In
-*<span class="nocase">17th European Conference on Antennas and
-Propagation</span>*. <https://doi.org/10.23919/EuCAP57121.2023.10133731>.
-
-- Mousset, L. et al. 2022. “<span class="nocase">Status of QUBIC, the Q&U
-Bolometer for Cosmology</span>.” In *<span class="nocase">33rd
-Rencontres de Blois</span>: <span class="nocase">Exploring the Dark
-Universe</span>*. <https://arxiv.org/abs/2210.03161>.
-
 
