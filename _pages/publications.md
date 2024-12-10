@@ -23,7 +23,7 @@ and [ResearchGate](https://www.researchgate.net/profile/Leo-**Vacher**).
 Krachmalnicoff, Claudio Ranucci, Mathieu Remazeilles, and Arianna
 Rizzieri. 2024. “<span class="nocase">How bad could it be? Modelling the
 3D complexity of the polarised dust signal using moment
-expansion</span>,” November. <https://arxiv.org/abs/2411.11649>. 
+expansion</span>,” Submitted to A$\&$A . <https://arxiv.org/abs/2411.11649>. 
 
 - **Vacher**, L., J. Aumont, F. Boulanger, L. Montier, V. Guillet, A. Ritacco, and J. Chluba. 2023.
 “<span class="nocase">Frequency dependence of the thermal dust E/B ratio
@@ -76,8 +76,7 @@ from cosmological, astrophysical, and local data</span>.” *Phys. Rev. D*
 106 (8): 083522. <https://doi.org/10.1103/PhysRevD.106.083522>.
 
 - Schöneberg, N., and L. **Vacher**. 2024. “<span class="nocase">The mass
-effect – Variations of masses and their impact on cosmology</span>,”
-July. <https://arxiv.org/abs/2407.16845>.
+effect – Variations of masses and their impact on cosmology</span>,” Submitted to JCAP. <https://arxiv.org/abs/2407.16845>.
 
 - Schöneberg, N., L. **Vacher**, J. D. F. Dias, Martim M. C. D. Carvalho,
 and C. J. A. P. Martins. 2023. “<span class="nocase">News from the
@@ -99,12 +98,11 @@ mission</span>,” August. <https://arxiv.org/abs/2408.03040>.
 
 - Carralot, F. et al. 2024. “<span class="nocase">Requirements on the gain
 calibration for LiteBIRD polarisation data with blind component
-separation</span>,” November. <https://arxiv.org/abs/2411.02080>.
+separation</span>,” <https://arxiv.org/abs/2411.02080>.
 
 - Campeti, P. et al. 2024. “<span class="nocase">LiteBIRD science goals
 and forecasts. A case study of the origin of primordial gravitational
-waves using large-scale CMB polarization</span>.” *JCAP* 06: 008.
-<https://doi.org/10.1088/1475-7516/2024/06/008>.
+waves using large-scale CMB polarization</span>.” *JCAP* 06: 008. <https://doi.org/10.1088/1475-7516/2024/06/008>.
 
 - Ghigna, T. et al. 2024. “<span class="nocase">The LiteBIRD mission to
 explore cosmic inflation</span>.” In *SPIE Astronomical Telescopes +
@@ -116,21 +114,17 @@ side-lobe knowledge in the presence of foregrounds for LiteBIRD</span>.”
 
 - Lonappan, A. I. et al. 2024. “<span class="nocase">LiteBIRD science
 goals and forecasts: a full-sky measurement of gravitational lensing of
-the CMB</span>.” *JCAP* 06: 009.
-<https://doi.org/10.1088/1475-7516/2024/06/009>.
+the CMB</span>.” *JCAP* 06: 009. <https://doi.org/10.1088/1475-7516/2024/06/009>.
 
 - Namikawa, T. et al. 2024. “<span class="nocase">LiteBIRD science goals
 and forecasts: improving sensitivity to inflationary gravitational waves
-with multitracer delensing</span>.” *JCAP* 06: 010.
-<https://doi.org/10.1088/1475-7516/2024/06/010>.
+with multitracer delensing</span>.” *JCAP* 06: 010. <https://doi.org/10.1088/1475-7516/2024/06/010>.
 
 - Paoletti, D. et al. 2024. “<span class="nocase">LiteBIRD science goals
-and forecasts: primordial magnetic fields</span>.” *JCAP* 07: 086.
-<https://doi.org/10.1088/1475-7516/2024/07/086>.
+and forecasts: primordial magnetic fields</span>.” *JCAP* 07: 086. <https://doi.org/10.1088/1475-7516/2024/07/086>.
 
 - Remazeilles, M. et al. 2024. “<span class="nocase">LiteBIRD Science
-Goals and Forecasts. Mapping the Hot Gas in the Universe</span>,” July.
-<https://arxiv.org/abs/2407.17555>.
+Goals and Forecasts. Mapping the Hot Gas in the Universe</span>,” <https://arxiv.org/abs/2407.17555>.
 
 - Allys, E. et al. 2023. “<span class="nocase">Probing Cosmic Inflation
 with the LiteBIRD Cosmic Microwave Background Polarization
@@ -139,20 +133,19 @@ Survey</span>.” *PTEP* 2023 (4): 042F01. <https://doi.org/10.1093/ptep/ptac150
 
 - Campeti, P. et al. 2023. “<span class="nocase">LiteBIRD Science Goals
 and Forecasts. A Case Study of the Origin of Primordial Gravitational
-Waves using Large-Scale CMB Polarization</span>,” December. <https://arxiv.org/abs/2312.00717>.
+Waves using Large-Scale CMB Polarization</span>,” <https://arxiv.org/abs/2312.00717>.
 
 - Leloup, C. et al. 2023. “<span class="nocase">Impact of beam far
-side-lobe knowledge in the presence of foregrounds for LiteBIRD</span>,”
-December. <https://arxiv.org/abs/2312.09001>.
+side-lobe knowledge in the presence of foregrounds for LiteBIRD</span>,” <https://arxiv.org/abs/2312.09001>.
 
 - Lonappan, A. I. et al. 2023. “<span class="nocase">LiteBIRD Science
 Goals and Forecasts: A full-sky measurement of gravitational lensing of
-the CMB</span>,” December. <https://arxiv.org/abs/2312.05184>.
+the CMB</span>,” <https://arxiv.org/abs/2312.05184>.
 
 
 - Namikawa, T. et al. 2023. “<span class="nocase">LiteBIRD Science Goals
 and Forecasts: Improving Sensitivity to Inflationary Gravitational Waves
-with Multitracer Delensing</span>,” December. <https://arxiv.org/abs/2312.05194>.
+with Multitracer Delensing</span>,” <https://arxiv.org/abs/2312.05194>.
 
 - Hubmayr, J. et al. 2022. “<span class="nocase">Optical Characterization
 of OMT-Coupled TES Bolometers for LiteBIRD</span>.” *J. Low Temp. Phys.*
