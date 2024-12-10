@@ -15,7 +15,7 @@ and also on [Scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=
 [Arxiv](https://arxiv.org/search/astro-ph?searchtype=author&query=**Vacher**%2C+L)
 and [ResearchGate](https://www.researchgate.net/profile/Leo-**Vacher**).
 
-## Selected publications (<10 authors and major contribution)
+## Selected publications (<10 authors and/or major contribution)
 
 ### Moments and foregrounds
 
