@@ -19,6 +19,11 @@ and [ResearchGate](https://www.researchgate.net/profile/Leo-**Vacher**).
 
 ### Moments and foregrounds
 
+- **Vacher, L.**, Alessandro Carones, Jonathan Aumont, Jens Chluba, Nicoletta
+Krachmalnicoff, Claudio Ranucci, Mathieu Remazeilles, and Arianna
+Rizzieri. 2024. “<span class="nocase">How bad could it be? Modelling the
+3D complexity of the polarised dust signal using moment
+expansion</span>,” November. <https://arxiv.org/abs/2411.11649>. 
 
 - **Vacher**, L., J. Aumont, F. Boulanger, L. Montier, V. Guillet, A. Ritacco, and J. Chluba. 2023.
 “<span class="nocase">Frequency dependence of the thermal dust E/B ratio
@@ -55,8 +60,10 @@ A163. <https://doi.org/10.1051/0004-6361/202244269>.
 
 ### Fundamental constants and gravity theory
 
-- **Vacher**, L. and N. Schöneberg. 2024. “<span class="nocase">Incompatibility of fine-structure constant variations at recombination with local observations</span>.”
-Submitted to *Phys. Rev. D*. preprint: arXiv:2403.02256. <https://arxiv.org/abs/2403.02256>.
+- **Vacher**, L., and N. Schöneberg. 2024.
+“<span class="nocase">Incompatibility of fine-structure constant
+variations at recombination with local observations</span>.” *Phys. Rev.
+D* 109 (10): 103520. <https://doi.org/10.1103/PhysRevD.109.103520>.
 
 - **Vacher**, L., N. Schöneberg, J. D. F. Dias, C. J. A. P. Martins, and
 F. Pimenta. 2023. “<span class="nocase">Runaway dilaton models:
@@ -68,6 +75,10 @@ Vinzl, S. Nesseris, G. Cañas-Herrera, and M. Martinelli. 2022. “<span class="
 from cosmological, astrophysical, and local data</span>.” *Phys. Rev. D*
 106 (8): 083522. <https://doi.org/10.1103/PhysRevD.106.083522>.
 
+- Schöneberg, N., and L. **Vacher**. 2024. “<span class="nocase">The mass
+effect – Variations of masses and their impact on cosmology</span>,”
+July. <https://arxiv.org/abs/2407.16845>.
+
 - Schöneberg, N., L. **Vacher**, J. D. F. Dias, Martim M. C. D. Carvalho,
 and C. J. A. P. Martins. 2023. “<span class="nocase">News from the
 Swampland constraining string theory with astrophysics and
@@ -76,9 +87,50 @@ cosmology</span>.” *JCAP* 10: 039. <https://doi.org/10.1088/1475-7516/2023/10/
 - Martins, C. J. A. P., and L. **Vacher**. 2019. “<span class="nocase">Astrophysical and local constraints on string
 theory: Runaway dilaton models</span>.” *Phys. Rev. D* 100 (12): 123514. <https://doi.org/10.1103/PhysRevD.100.123514>.
 
+### Systematic effects and other CMB related topics
+
+- Takase, Y., **Vacher, L.** et al. 2024. “<span class="nocase">Multi-dimensional
+optimisation of the scanning strategy for the LiteBIRD space
+mission</span>,” August. <https://arxiv.org/abs/2408.03040>. 
+
 ## Collaboration papers
 
 ### LiteBIRD
+
+- Carralot, F. et al. 2024. “<span class="nocase">Requirements on the gain
+calibration for LiteBIRD polarisation data with blind component
+separation</span>,” November. <https://arxiv.org/abs/2411.02080>.
+
+- Campeti, P. et al. 2024. “<span class="nocase">LiteBIRD science goals
+and forecasts. A case study of the origin of primordial gravitational
+waves using large-scale CMB polarization</span>.” *JCAP* 06: 008.
+<https://doi.org/10.1088/1475-7516/2024/06/008>.
+
+- Ghigna, T. et al. 2024. “<span class="nocase">The LiteBIRD mission to
+explore cosmic inflation</span>.” In *SPIE Astronomical Telescopes +
+Instrumentation 2024*. <https://arxiv.org/abs/2406.02724>. 
+
+- Leloup, C. et al. 2024. “<span class="nocase">Impact of beam far
+side-lobe knowledge in the presence of foregrounds for LiteBIRD</span>.”
+*JCAP* 06: 011. <https://doi.org/10.1088/1475-7516/2024/06/011>.
+
+- Lonappan, A. I. et al. 2024. “<span class="nocase">LiteBIRD science
+goals and forecasts: a full-sky measurement of gravitational lensing of
+the CMB</span>.” *JCAP* 06: 009.
+<https://doi.org/10.1088/1475-7516/2024/06/009>.
+
+- Namikawa, T. et al. 2024. “<span class="nocase">LiteBIRD science goals
+and forecasts: improving sensitivity to inflationary gravitational waves
+with multitracer delensing</span>.” *JCAP* 06: 010.
+<https://doi.org/10.1088/1475-7516/2024/06/010>.
+
+- Paoletti, D. et al. 2024. “<span class="nocase">LiteBIRD science goals
+and forecasts: primordial magnetic fields</span>.” *JCAP* 07: 086.
+<https://doi.org/10.1088/1475-7516/2024/07/086>.
+
+- Remazeilles, M. et al. 2024. “<span class="nocase">LiteBIRD Science
+Goals and Forecasts. Mapping the Hot Gas in the Universe</span>,” July.
+<https://arxiv.org/abs/2407.17555>.
 
 - Allys, E. et al. 2023. “<span class="nocase">Probing Cosmic Inflation
 with the LiteBIRD Cosmic Microwave Background Polarization
@@ -114,4 +166,8 @@ cosmological implications</span>.” *JCAP* 01 (01): 039. <https://doi.org/10.10
 requirements for CMB B-mode experiments. Application to the LiteBIRD
 satellite</span>.” *JCAP* 04 (04): 029. <https://doi.org/10.1088/1475-7516/2022/04/029>.
 
+## Euclid
+
+- Mellier, Y. et al. 2024. “<span class="nocase"> Euclid. I. Overview of
+the Euclid mission</span>,” May. <https://arxiv.org/abs/2405.13491>.
 

@@ -52,6 +52,11 @@ In CMB science, it is common to use the $E$ and $B$ decomposition in order to an
 
 We further explored the moment expansion formalism to infer properties about the dust physics in [Ritacco et al (2023)](https://www.aanda.org/articles/aa/full_html/2023/02/aa44269-22/aa44269-22.html). This paper was the first one to detect a different spectral behaviour for the $E$- and $B$-modes power spectra of the dust residuals in data, giving us a clew for the developments about $E/B$ discussed in the previous section. As a direct follow up, we are currently preparing another work targeting dust properties using the spin-moment formalism directly at the map level [Guillet et al (in prep)]. 
 
+### Using moment expansion to model the Galactic signal
+
+In the recent work [Vacher et al (2024)](https://arxiv.org/pdf/2411.11649), we demonstrated that any foreground model used by the CMB community can be easily decomposed in terms of moments. We used this fact to model the complexity that could arise from variations of the Galactic physical properties in the third dimension, along the line of sight. We demonstrated that a lot of room was left by data for additional complexity in the third dimension, which could significantly challenge standard component separation methods.
+
+
 ### Scattering transform and more
 
 Dust signal is not only complex is in the frequency space, but also in space. Indeed, due to the complex turbulent and magnetized behaviour of the interstellar medium, dust signal displays highly non Gaussian patterns over the sky, as filaments, drapery or clumps. I had the chance to investigates new statistics in order to tackle together the spatial and the spectral complexity of the foreground signal using scattering transform in [Regaldo-Saint Blancard (2022)](https://iopscience.iop.org/article/10.3847/1538-4357/aca538). In this precursory work, we managed to infer some properties about the SED signal from the spatial non-Gaussian statistics of the signal only. 
@@ -62,11 +67,11 @@ Dust signal is not only complex is in the frequency space, but also in space. In
 
 *Definition of the scanning strategy of $LiteBID$ (for explanations see [LiteBIRD Collaboration (2020)](https://doi.org/10.1093/ptep/ptac150))*
 
-I am strongly invested in the $LiteBIRD$ collaboration. Besides my main work on foregrounds and component separation described above, I also work on the study of the impact of some systematic effects on the observations. Specifically, I worked on optimizing the scanning strategy of the instrument in [Takase et al (in prep)]. In this work, we investigate how and at which space the $LiteBIRD$ satellite will have to rotate on himself in order to observe the sky in a way that ease as much as possible the final data analysis. $LiteBIRD$ will be rotating around the "L2" lagrange point, a point behind the moon, where the gravitational attraction of the sun and the one of the earth perfectly balance one another. No need to say that it will be impossible to go back there and tune it after the start of the mission, so choices like this must be carefully made now.
+I am strongly invested in the $LiteBIRD$ collaboration. Besides my main work on foregrounds and component separation described above, I also work on the study of the impact of some systematic effects on the observations. Specifically, I worked on optimizing the scanning strategy of the instrument in [Takase et al (2023)](https://arxiv.org/pdf/2408.03040). In this work -- which I co-lead -- we investigate how and at which pace the $LiteBIRD$ satellite will have to rotate on himself in order to observe the sky in a way that ease as much as possible the final data analysis. $LiteBIRD$ will be rotating around the "L2" lagrange point, a point behind the moon, where the gravitational attraction of the sun and the one of the earth perfectly balance one another. No need to say that it will be impossible to go back there and tune it after the start of the mission, so choices like this must be carefully made now.
 
 ## The Simons observatory
 
-I just joined the collaboration. Hopefully, some of my contributions will appear here very soon!
+As a member of SO, I help investigating the Galactic science that will be done with the mission as well as the challenge that will represent the foreground for the detection of new physics in the CMB. More soon!
 
 ## Theories of gravity and fundamental constants
 
@@ -76,7 +81,10 @@ I just joined the collaboration. Hopefully, some of my contributions will appear
 
 ### Constant variations and CMB 
 
-In direct connection with my work on CMB, I investigated the limits on building a coherent model in which variations of the fine structure constant during the recombination epoch could help solving the infamous $H_0$ tension [Vacher and Schoneberg (2024)](https://arxiv.org/abs/2403.02256). 
+In direct connection with my work on CMB, I investigated the limits on building a coherent model in which variations of the fine structure constant during the recombination epoch could help solving the infamous $H_0$ tension [Vacher and Schöneberg (2024)](https://arxiv.org/abs/2403.02256). We demonstrated that it was impossible for any simple and well motivated varying-$\alpha$ scalar field model to shift the redshift of recombination and alleviate the hubble tension. This impossibility does not come from CMB data, but from the very precise local data measured on earth in laboratory.
+These constraints are so sharp that they are able to severely constraint the existence of new physics in the early Universe, because a field acting in the beggining of our cosmic history would have to decellerate extremely brutally to match them today.
+
+In the follow-up work [Schöneberg and Vacher (2024)](https://arxiv.org/abs/2407.16845), we applied the same reasoning to electron mass variations. We showed that variations of the electron mass in the early Universe provide a most powerful lever arm than $\alpha$ to solve the H0 tension, while remaining largely immune to the precision of local data.
 
 ### Scalar fields and String theory 
 
@@ -88,7 +96,7 @@ I did a similar exploration of the so called Bekenstein models, in [Vacher et al
 
 Finally, in [Schöneberg et al (2023)](https://iopscience.iop.org/article/10.1088/1475-7516/2023/10/039), we investigated the so-called string Swampland conjecture, in regards with the cosmological latest datasets, using considerations about varying constant models. We stressed that, beside the violation of the Swampland conjectures, the observed stability of the fundamental constant and non violation of the EEP shrinks further the viability domain of the possible scalar field extensions of the standard models. 
 
-### Using Euclid to probe gravity 
+### Using Euclid to probe the nature of gravity 
 
 I am also a member of the Euclid consortium, in which I investigate how this large cosmological survey can be used to probe the possible variations of the fundamental constants. In particular, we investigate how a varying fine structure constant can impact Euclid's observables as the matter power spectrum. Our results will be published soon in a collaboration paper [Euclid collaboration (in prep)].
 
