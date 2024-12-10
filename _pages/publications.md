@@ -9,6 +9,10 @@ nocite: "@*"
 
 [comment]: <pandoc -t markdown_strict --citeproc publications.md -o publications-list.md --bibliography bib/INSPIRE-CiteAll.bib>
 
+## Statistics and general informations:
+
+**Papers:** 21 (+10 submitted), **Citations:** 660, **h-index:** 11 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on December 2024).
+
 You can access all my publications and citation metrics, preferentially
 on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc) and [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true)
 and also on [Scholar](https://scholar.google.com/citations?user=uLb6OyYAAAAJ&hl=fr&authuser=1),
@@ -19,8 +23,8 @@ and [ResearchGate](https://www.researchgate.net/profile/Leo-**Vacher**).
 
 ### Moments and foregrounds
 
-- **Vacher, L.**, Alessandro Carones, Jonathan Aumont, Jens Chluba, Nicoletta
-Krachmalnicoff, Claudio Ranucci, Mathieu Remazeilles, and Arianna
+- **Vacher, L.**, A. Carones, J. Aumont, Jens Chluba, N.
+Krachmalnicoff, C. Ranucci, M. Remazeilles, and A.
 Rizzieri. 2024. “<span class="nocase">How bad could it be? Modelling the
 3D complexity of the polarised dust signal using moment
 expansion</span>,” Submitted to A$\&$A . <https://arxiv.org/abs/2411.11649>. 
