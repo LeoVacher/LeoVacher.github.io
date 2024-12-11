@@ -7,7 +7,7 @@ author_profile: true
 
 ### Talks and posters
 
-- **Talk**. 2024. [Parity from home](https://parity.cosmodiscussion.com/). Online. [Video](https://www.youtube.com/@CosmoParityViolation).
+- **Talk**. 2024. [Parity from home](https://parity.cosmodiscussion.com/). Online. [Video](https://www.youtube.com/watch?v=9fHHnhGCYSo&t=1s).
 - **Talk**. 2023. [From the Galaxy to the Big-Bang](https://jlp2023.sciencesconf.org/). Banyuls, France. [Slides](https://share.obspm.fr/s/Myc2DiABpFLG5M8).
 - **Talk**. 2023. [Ibericos](https://www.iastro.pt/research/conferences/ibericos2023/). Ponte de Lima, Portugal.
 - **Talk**. 2022. [Galactic science and CMB foregrounds Workshop](https://www.astr.tohoku.ac.jp/GSWS/). Tenerife, Spain.
