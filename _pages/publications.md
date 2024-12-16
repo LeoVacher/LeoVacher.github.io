@@ -97,7 +97,7 @@ theory: Runaway dilaton models</span>.” *Phys. Rev. D* 100 (12): 123514. <http
 
 ### Systematic effects and other CMB related topics
 
-- Takase, Y., **Vacher, L.** et al. 2024. “<span class="nocase">Multi-dimensional
+- Takase, Y., L. **Vacher.** et al. 2024. “<span class="nocase">Multi-dimensional
 optimisation of the scanning strategy for the LiteBIRD space
 mission</span>,” *JCAP* : 12 036, <https://doi.org/10.1088/1475-7516/2024/12/036>. 
 
