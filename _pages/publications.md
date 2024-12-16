@@ -171,5 +171,5 @@ satellite</span>.” *JCAP* 04 (04): 029. <https://doi.org/10.1088/1475-7516/202
 ## Euclid
 
 - Mellier, Y. et al. 2024. “<span class="nocase"> Euclid. I. Overview of
-the Euclid mission</span>,” May. <https://arxiv.org/abs/2405.13491>.
+the Euclid mission</span>,”. <https://arxiv.org/abs/2405.13491>.
 
