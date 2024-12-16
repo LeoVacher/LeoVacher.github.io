@@ -99,7 +99,7 @@ theory: Runaway dilaton models</span>.” *Phys. Rev. D* 100 (12): 123514. <http
 
 - Takase, Y., **Vacher, L.** et al. 2024. “<span class="nocase">Multi-dimensional
 optimisation of the scanning strategy for the LiteBIRD space
-mission</span>,” August. <https://arxiv.org/abs/2408.03040>. 
+mission</span>,” *JCAP* : 12 036, <https://doi.org/10.1088/1475-7516/2024/12/036>. 
 
 ## Collaboration papers
 
@@ -123,7 +123,7 @@ side-lobe knowledge in the presence of foregrounds for LiteBIRD</span>.”
 
 - Lonappan, A. I. et al. 2024. “<span class="nocase">LiteBIRD science
 goals and forecasts: a full-sky measurement of gravitational lensing of
-the CMB</span>.” *JCAP* 06: 009. <https://doi.org/10.1088/1475-7516/2024/06/009>.
+the CMB</span>.” *JCAP* 06: 009. <https://doi.org/10.1088/1475-7516/2024/06/009>. 
 
 - Namikawa, T. et al. 2024. “<span class="nocase">LiteBIRD science goals
 and forecasts: improving sensitivity to inflationary gravitational waves
