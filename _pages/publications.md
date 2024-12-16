@@ -87,6 +87,11 @@ and C. J. A. P. Martins. 2023. “<span class="nocase">News from the
 Swampland constraining string theory with astrophysics and
 cosmology</span>.” *JCAP* 10: 039. <https://doi.org/10.1088/1475-7516/2023/10/039>.
 
+- Dias, J. D. F., N. Schöneberg, L. **Vacher**, C. J. A. P. Martins, and
+S. Vinzl. 2024. “<span class="nocase">A speed limit on tachyon fields
+from cosmological and fine-structure data</span>.” *JCAP* 11: 030.
+<https://doi.org/10.1088/1475-7516/2024/11/030>.
+
 - Martins, C. J. A. P., and L. **Vacher**. 2019. “<span class="nocase">Astrophysical and local constraints on string
 theory: Runaway dilaton models</span>.” *Phys. Rev. D* 100 (12): 123514. <https://doi.org/10.1103/PhysRevD.100.123514>.
 
