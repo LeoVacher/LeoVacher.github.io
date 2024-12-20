@@ -112,9 +112,9 @@ separation</span>,” <https://arxiv.org/abs/2411.02080>.
 and forecasts. A case study of the origin of primordial gravitational
 waves using large-scale CMB polarization</span>.” *JCAP* 06: 008. <https://doi.org/10.1088/1475-7516/2024/06/008>.
 
-- Ghigna, T. et al. 2024. “<span class="nocase">The LiteBIRD mission to
+<!--- Ghigna, T. et al. 2024. “<span class="nocase">The LiteBIRD mission to
 explore cosmic inflation</span>.” In *SPIE Astronomical Telescopes +
-Instrumentation 2024*. <https://arxiv.org/abs/2406.02724>. 
+Instrumentation 2024*. <https://arxiv.org/abs/2406.02724>. -->
 
 - Leloup, C. et al. 2024. “<span class="nocase">Impact of beam far
 side-lobe knowledge in the presence of foregrounds for LiteBIRD</span>.”
