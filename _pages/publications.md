@@ -11,7 +11,7 @@ nocite: "@*"
 
 ## Statistics and general informations:
 
-**Papers:** 21 (+10 submitted), **Citations:** 660, **h-index:** 11 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on December 2024).
+**Papers:** 23 (+3 submitted), **Citations:** 660, **h-index:** 11 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on December 2024).
 
 You can access all my publications and citation metrics, preferentially
 on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc) and [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true)
@@ -137,7 +137,6 @@ Goals and Forecasts. Mapping the Hot Gas in the Universe</span>,” <https://arx
 - Allys, E. et al. 2023. “<span class="nocase">Probing Cosmic Inflation
 with the LiteBIRD Cosmic Microwave Background Polarization
 Survey</span>.” *PTEP* 2023 (4): 042F01. <https://doi.org/10.1093/ptep/ptac150>.
-
 
 - Lonappan, A. I. et al. 2023. “<span class="nocase">LiteBIRD Science
 Goals and Forecasts: A full-sky measurement of gravitational lensing of
