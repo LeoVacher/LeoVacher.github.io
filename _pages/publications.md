@@ -98,7 +98,7 @@ theory: Runaway dilaton models</span>.” *Phys. Rev. D* 100 (12): 123514. <http
 
 - Takase, Y., L. **Vacher.** et al. 2024. “<span class="nocase">Multi-dimensional
 optimisation of the scanning strategy for the LiteBIRD space
-mission</span>,” *JCAP* : 12 036, <https://doi.org/10.1088/1475-7516/2024/12/036>. 
+mission</span>,” *JCAP*: 12 036, <https://doi.org/10.1088/1475-7516/2024/12/036>. 
 
 ## Collaboration papers
 
@@ -138,13 +138,6 @@ Goals and Forecasts. Mapping the Hot Gas in the Universe</span>,” <https://arx
 with the LiteBIRD Cosmic Microwave Background Polarization
 Survey</span>.” *PTEP* 2023 (4): 042F01. <https://doi.org/10.1093/ptep/ptac150>.
 
-
-- Campeti, P. et al. 2023. “<span class="nocase">LiteBIRD Science Goals
-and Forecasts. A Case Study of the Origin of Primordial Gravitational
-Waves using Large-Scale CMB Polarization</span>,” <https://arxiv.org/abs/2312.00717>.
-
-- Leloup, C. et al. 2023. “<span class="nocase">Impact of beam far
-side-lobe knowledge in the presence of foregrounds for LiteBIRD</span>,” <https://arxiv.org/abs/2312.09001>.
 
 - Lonappan, A. I. et al. 2023. “<span class="nocase">LiteBIRD Science
 Goals and Forecasts: A full-sky measurement of gravitational lensing of
