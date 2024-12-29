@@ -8,12 +8,14 @@ author_profile: true
 ### Talks and posters
 
 - **Talk**. 2024. [Parity from home](https://parity.cosmodiscussion.com/). Online. [Video](https://www.youtube.com/watch?v=9fHHnhGCYSo&t=1s).
+- **Talk**. 2024 [FWP: Parity violation through CMB
+observations](https://www.ifpu.it/wp-content/uploads/2024/05/Scientific-program-FWP-at-IFPU-on-Parity-violation-through-CMB-observations-27-31-May-2024.pdf). IFPU, Trieste.
 - **Talk**. 2023. [From the Galaxy to the Big-Bang](https://jlp2023.sciencesconf.org/). Banyuls, France. [Slides](https://share.obspm.fr/s/Myc2DiABpFLG5M8).
 - **Talk**. 2023. [Ibericos](https://www.iastro.pt/research/conferences/ibericos2023/). Ponte de Lima, Portugal.
 - **Talk**. 2022. [Galactic science and CMB foregrounds Workshop](https://www.astr.tohoku.ac.jp/GSWS/). Tenerife, Spain.
 - **Talk**. 2022. LiteBIRD F2F meeting. Okayama University, Japan.
 - **Talk**. 2022. [CMB france #4](https://indico.in2p3.fr/event/28120/). IAP, France. [Slides](https://indico.in2p3.fr/event/28120/contributions/116371/attachments/74230/106870/EE-BB_cmbfrance.pdf).
-- **Talk**. 2022. Pan-Experiment Galactic Science Group. Online.
+- **Talk**. 2022. [Pan-Experiment Galactic Science Group](https://galsci.github.io/blog/2022/journal-club-thermaldust-3d-dust/). Online.
 - **Talk**. 2022. Cosmology session of the 56th [Rencontres de Moriond](https://moriond.in2p3.fr/2022/Cosmology/
 ). La Thuile, Italy. [Proceedings](https://arxiv.org/abs/2203.07246).
 - **Talk**. 2022. [PHD Day](https://www.irap.omp.eu/doctorants-irap/en/phd-day-2022/). IRAP, France. First prize for best oral presentation.
