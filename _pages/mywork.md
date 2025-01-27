@@ -99,5 +99,3 @@ Finally, in [Schöneberg et al (2023)](https://iopscience.iop.org/article/10.108
 ### Using Euclid to probe the nature of gravity 
 
 I am also a member of the Euclid consortium, in which I investigate how this large cosmological survey can be used to probe the possible variations of the fundamental constants. In particular, we investigate how a varying fine structure constant can impact Euclid's observables as the matter power spectrum. Our results will be published soon in a collaboration paper [Euclid collaboration (in prep)].
-
-
