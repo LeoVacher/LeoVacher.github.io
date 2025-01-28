@@ -8,10 +8,7 @@ author_profile: true
 ### Talks and posters
 
 - **Talk**. 2025. [CMB B-mode-NEXT Workshop](https://indico.in2p3.fr/event/34780/timetable/). Tsukuba, Japan.
-
-
 - **Talk**. 2025. [Pan-Experiment Galactic Science Group](https://galsci.github.io/). Online.
-
 - **Talk**. 2024. [Parity from home](https://parity.cosmodiscussion.com/). Online. [Video](https://www.youtube.com/watch?v=9fHHnhGCYSo&t=1s).
 - **Talk**. 2024 [FWP: Parity violation through CMB
 observations](https://www.ifpu.it/wp-content/uploads/2024/05/Scientific-program-FWP-at-IFPU-on-Parity-violation-through-CMB-observations-27-31-May-2024.pdf). IFPU, Trieste.
