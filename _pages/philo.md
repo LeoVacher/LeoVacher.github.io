@@ -10,15 +10,15 @@ author_profile: true
 I am currently doing a master's degree in [logic, history and philosophy of sciences](https://philo.shs-nancy.univ-lorraine.fr/resumes-des-cours-maldelhis-ead).
 
 You can find here some of my short essays:
-- [philosophy of logic](https://leovacher.github.io/files/philo-logique-appr.pdf) (french). On Fitch's paradox of Knowability in epistemic logic.
-- [philosophy of mathematics](https://leovacher.github.io/files/philo-maths_aprr.pdf) (french). On the role of pictures in mathematical proofs.
-- [philosophy of logic](https://leovacher.github.io/files/Philosophie_de_la_logique.pdf) (french). On the links between logic and mathematics through the points of view of Henri Poincaré and Egbertus Jan Brouwer.
-- [philosophy of quantum mechanics](https://leovacher.github.io/files/BQM.pdf) (french). On the inevitability of Copenhagen interpration of Quantum mechanics in the light of the existence of De-Broglie Bohm theory.
-- [philosophy of mathematics](https://leovacher.github.io/files/Philo_maths_Vacher.pdf) (french). On the identity of indescirnables in mathematical structuralism.
-- [philosophy of physics](https://leovacher.github.io/files/Devoir_philophy_Vacher.pdf) (french). On the role of experiment to probe physical hypothesis.
-- [philosophy of AI](https://leovacher.github.io/files/Philo_IA_Vacher.pdf) (french). On the ethics of artificial intelligence in contemporary society.
-- [philosophy of biology](https://leovacher.github.io/files/Philo_IA_Vacher.pdf) (french). On the cellular theory in biology.
-- [philosophy and history of biology](https://leovacher.github.io/files/biocell.pdf) (french). On the generation theories in biology.
+- [Philosophy of logic](https://leovacher.github.io/files/philo-logique-appr.pdf) (french). On Fitch's paradox of Knowability in epistemic logic.
+- [Philosophy of mathematics](https://leovacher.github.io/files/philo-maths_aprr.pdf) (french). On the role of pictures in mathematical proofs.
+- [Philosophy of logic](https://leovacher.github.io/files/Philosophie_de_la_logique.pdf) (french). On the links between logic and mathematics through the points of view of Henri Poincaré and Egbertus Jan Brouwer.
+- [Philosophy of quantum mechanics](https://leovacher.github.io/files/BQM.pdf) (french). On the inevitability of Copenhagen interpration of Quantum mechanics in the light of the existence of De-Broglie Bohm theory.
+- [Philosophy of mathematics](https://leovacher.github.io/files/Philo_maths_Vacher.pdf) (french). On the identity of indescirnables in mathematical structuralism.
+- [Philosophy of physics](https://leovacher.github.io/files/Devoir_philophy_Vacher.pdf) (french). On the role of experiment to probe physical hypothesis.
+- [Philosophy of AI](https://leovacher.github.io/files/Philo_IA_Vacher.pdf) (french). On the ethics of artificial intelligence in contemporary society.
+- [Philosophy of biology](https://leovacher.github.io/files/Philo_IA_Vacher.pdf) (french). On the cellular theory in biology.
+- [Philosophy and history of biology](https://leovacher.github.io/files/biocell.pdf) (french). On the generation theories in biology.
 - [Social epsitemology](https://UE901B_EC1_Vacher.pdf) (french). On scientific progress. On this topic, see also my short talk [here](https://www.youtube.com/watch?v=0576_PoDipM&list=PL3w7LDBSX202vaHybj9yab8ApFRCU3a4J&index=9).
 
 ### On Gauge theories
