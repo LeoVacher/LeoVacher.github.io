@@ -19,7 +19,7 @@ You can find here some of my short essays:
 - [Philosophy of AI](https://leovacher.github.io/files/Philo_IA_Vacher.pdf) (french). On the ethics of artificial intelligence in contemporary society.
 - [Philosophy of biology](https://leovacher.github.io/files/Philo_IA_Vacher.pdf) (french). On the cellular theory in biology.
 - [Philosophy and history of biology](https://leovacher.github.io/files/biocell.pdf) (french). On the generation theories in biology.
-- [Social epsitemology](https://UE901B_EC1_Vacher.pdf) (french). On scientific progress. On this topic, see also my short talk [here](https://www.youtube.com/watch?v=0576_PoDipM&list=PL3w7LDBSX202vaHybj9yab8ApFRCU3a4J&index=9).
+- [Social epsitemology](https://leovacher.github.io/files/UE901B_EC1_Vacher.pdf) (french). On scientific progress. On this topic, see also my short talk [here](https://www.youtube.com/watch?v=0576_PoDipM&list=PL3w7LDBSX202vaHybj9yab8ApFRCU3a4J&index=9).
 
 ### On Gauge theories
 

@@ -11,7 +11,7 @@ nocite: "@*"
 
 ## Statistics and general informations:
 
-**Papers:** 23 (+3 submitted), **Citations:** 702, **h-index:** 12 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on December 2024).
+**Papers:** 26 (+ 4 submitted), **Citations:** 838, **h-index:** 13 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on April 2025).
 
 You can access all my publications and citation metrics, preferentially
 on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc) and [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true)
@@ -79,6 +79,9 @@ Vinzl, S. Nesseris, G. Cañas-Herrera, and M. Martinelli. 2022. “<span class="
 from cosmological, astrophysical, and local data</span>.” *Phys. Rev. D*
 106 (8): 083522. <https://doi.org/10.1103/PhysRevD.106.083522>.
 
+- Di Valentino E. et al. 2025. "<span class="nocase"> The CosmoVerse White Paper:Addressing observational ten-
+sions in cosmology with systematics and fundamental physics</span>", Submitted to hysics of the Dark Universe. <https://arxiv.org/abs/2504.01669>.
+
 - Schöneberg, N., and L. **Vacher**. 2024. “<span class="nocase">The mass
 effect – Variations of masses and their impact on cosmology</span>,” Submitted to JCAP. <https://arxiv.org/abs/2407.16845>.
 
@@ -104,9 +107,13 @@ mission</span>,” *JCAP*: 12 036, <https://doi.org/10.1088/1475-7516/2024/12/03
 
 ### LiteBIRD
 
+- De la Hoz, E. et al. 2025. “<span class="nocase">LiteBIRD Science Goals and
+Forecasts: constraining isotropic cosmic birefringence.</span>,” <https://arxiv.org/abs/2503.00636>.
+
 - Carralot, F. et al. 2024. “<span class="nocase">Requirements on the gain
 calibration for LiteBIRD polarisation data with blind component
-separation</span>,” <https://arxiv.org/abs/2411.02080>.
+separation</span>,”. *JCAP* 01: 019.
+<https://arxiv.org/abs/2411.02080>.
 
 - Campeti, P. et al. 2024. “<span class="nocase">LiteBIRD science goals
 and forecasts. A case study of the origin of primordial gravitational
@@ -159,7 +166,12 @@ cosmological implications</span>.” *JCAP* 01 (01): 039. <https://doi.org/10.10
 requirements for CMB B-mode experiments. Application to the LiteBIRD
 satellite</span>.” *JCAP* 04 (04): 029. <https://doi.org/10.1088/1475-7516/2022/04/029>.
 
-## Euclid
+### Simons Observatory
+
+
+- Abitbol, M. et al. 2025. “<span class="nocase">The Simons Observatory: Science Goals and Forecasts for the Enhanced Large Aperture Telescope</span>.” Submitted to JCAP. <https://arxiv.org/abs/2503.00636>.
+
+### Euclid
 
 - Mellier, Y. et al. 2024. “<span class="nocase"> Euclid. I. Overview of
 the Euclid mission</span>,”. <https://arxiv.org/abs/2405.13491>.
