@@ -23,7 +23,7 @@ and [ResearchGate](https://www.researchgate.net/profile/Leo-**Vacher**).
 
 ### Moments and foregrounds
 
-- **Vacher, L.**, A. Carones, J. Aumont, Jens Chluba, N.
+- **Vacher**, L., A. Carones, J. Aumont, Jens Chluba, N.
 Krachmalnicoff, C. Ranucci, M. Remazeilles, and A.
 Rizzieri. 2024. “<span class="nocase">How bad could it be? Modelling the
 3D complexity of the polarised dust signal using moment
