@@ -71,7 +71,7 @@ I am strongly invested in the $LiteBIRD$ collaboration. Besides my main work on 
 
 ## The Simons observatory
 
-As a member of SO, I help investigating the Galactic science that will be done with the mission as well as the challenge that will represent the foreground for the detection of new physics in the CMB. More soon!
+As a member of SO, I am one of the co-leads of the Galactic science group. My expertise is on the modelling and understanding of the foregrounds coming from our own Galaxy, which represents a major for the detection of new physics in the CMB with Simons.
 
 ## Theories of gravity and fundamental constants
 

@@ -11,7 +11,7 @@ nocite: "@*"
 
 ## Statistics and general informations:
 
-**Papers:** 26 (+ 4 submitted), **Citations:** 838, **h-index:** 13 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on April 2025).
+**Papers:** 30 (+ 5 submitted), **Citations:** 1481, **h-index:** 14 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on October 2025).
 
 You can access all my publications and citation metrics, preferentially
 on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc) and [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true)
@@ -112,8 +112,7 @@ Forecasts: constraining isotropic cosmic birefringence.</span>,” <https://arxi
 
 - Carralot, F. et al. 2024. “<span class="nocase">Requirements on the gain
 calibration for LiteBIRD polarisation data with blind component
-separation</span>,”. *JCAP* 01: 019.
-<https://arxiv.org/abs/2411.02080>.
+separation</span>,”. *JCAP* 01: 019. <https://arxiv.org/abs/2411.02080>.
 
 - Campeti, P. et al. 2024. “<span class="nocase">LiteBIRD science goals
 and forecasts. A case study of the origin of primordial gravitational
