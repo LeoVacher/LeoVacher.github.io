@@ -31,6 +31,6 @@ I am currently working on a thesis on the interpretations of gauge theories and 
 Here are some of my first writing related to this topic: 
 
 - [History of geodesic](https://leovacher.github.io/files/courbes-Vacher.pdf) curves from the end of the XVIIIth to the beggining of the XIXth century (french). 
-- [History of connections and gauge theories](https://leovacher.github.io/files/connexion-Vacher.pdf) in the XXth century (french). An attempted traduction in english can be found [here](https://leovacher.github.io/files/connexion-Vacher-en.pdf)
+- [History of connections and gauge theories](https://leovacher.github.io/files/connexion-Vacher.pdf) in the XXth century (french). An attempted traduction in english can be found [here](https://leovacher.github.io/files/connexion-Vacher-en.pdf).
 
 
