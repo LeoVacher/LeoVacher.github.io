@@ -17,6 +17,6 @@ I am involved in several outreach activities. More infos can be found on this we
 
 I am/was also an active member in several associative projects as
 - [SISSA for schools](https://www.sissaforschools.it/): Science outreach for italian schools at SISSA.
-- [Les étoiles brillent pour tous](http://ebpt.fr/association/): Science outreach in public places having difficult access to education (hospitals, penitentiary structures …).
-- [UniverSciel](https://www.google.com/search?client=opera&q=Universciel&sourceid=opera&ie=UTF-8&oe=UTF-8). Animations related to astronomy in schools and astronomical observations events.
+- [Les étoiles brillent pour tous](http://ebpt.fr/): Science outreach in public places having difficult access to education (hospitals, penitentiary structures …).
+- [UniverSciel](https://www.universciel.net/). Animations related to astronomy in schools and astronomical observations events.
 - [UPS in space](https://www.upsinspace.com). Astronomical observations and public talks.
