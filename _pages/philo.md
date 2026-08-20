@@ -26,9 +26,9 @@ I am currently doing a master's degree in [logic, history and philosophy of scie
 
 <img src="/images/gauge.png" alt="image" width="100%" height="auto">
 
-I am currently working on a thesis on the interpretations of gauge theories and gauge interpretation of gravity and possible geometrisation of Yang-Mills theories rooted in differential geometry.
+I wrote a thesis on the interpretations of gauge theories and gauge interpretation of gravity and possible geometrisation of Yang-Mills theories rooted in differential geometry. A temporary version can be found [here](../files/memoire_new.pdf), and I am currently revising it for publication. 
 
-Here are some of my first writing related to this topic: 
+Here are also some of my first writing related to this topic: 
 
 - [History of geodesic](https://leovacher.github.io/files/courbes-Vacher.pdf) curves from the end of the XVIIIth to the beggining of the XIXth century (french). 
 - [History of connections and gauge theories](https://leovacher.github.io/files/connexion-Vacher.pdf) in the XXth century (french). An attempted translation in english can be found [here](https://leovacher.github.io/files/connexion-Vacher-en.pdf).
