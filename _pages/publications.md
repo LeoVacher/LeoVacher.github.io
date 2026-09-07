@@ -11,7 +11,7 @@ nocite: "@*"
 
 ## Statistics and general informations:
 
-**Papers:** 30 (+ 5 submitted), **Citations:** 1481, **h-index:** 14 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on October 2025).
+**Papers:** 42, **Citations:** 2862, **h-index:** 17 (from [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true), on September 2026).
 
 You can access all my publications and citation metrics, preferentially
 on [ADS](https://ui.adsabs.harvard.edu/search/q=orcid%3A0000-0001-9551-1417&sort=date+desc) and [Inspire](https://inspirehep.net/authors/1969120?ui-citation-summary=true)

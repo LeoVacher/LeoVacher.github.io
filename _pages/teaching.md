@@ -5,8 +5,11 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## PHD with teaching duties (Doctorant chargé d’enseignements)
+## Rodolphe Clédassou (Euclid) summer school:
 
+- 2026 (Pornichet, France): **modified gravity**. Lecture notes and slides available [here](https://yolonomy.github.io/cosmo/modified_gravity/mod_grav/).
+
+## PHD with teaching duties (Doctorant chargé d’enseignements)
 
 During my PHD thesis, I was a teaching assistant at [Université Paul Sabatier](https://www.univ-tlse3.fr) from 2020 to 2023. I was happily in charge of the following modules:
 
@@ -25,14 +28,6 @@ During my PHD thesis, I was a teaching assistant at [Université Paul Sabatier](
 - **Light and color (L1):** Tutorials, supervision and evaluation of interdisciplinary student project about light (physics/biology/chemestry) in first year (18h).
 
 L1, L2 and L3 correspond respecitvely to first second and third year of bachelor's degree. I am gradually transcripting and extending most of my lecture notes [here](https://yolonomy.github.io/).
-
-## Internship supervisions
-
-- **J. Delhomelle (L2 - 2 months)** - Solving cosmological tensions with scalar field induced variations of fundamental constants. Lead to an [outreach publication](https://yolonomy.github.io/cosmo/cosmo/friedmann/).
-
-- **S. Vinzl (L2 - 7 months) -** Extended Bekenstein model and study of the variation of fundamental constants. Lead to a [journal publication](https://journals.aps.org/prd/abstract/10.1103/PhysRevD.106.083522).
-
-- **N. Gentil (L2 - 7 months) -** Quantifying the impact of Far Side Lobes asymmetries for the LiteBIRD mission. Provided significant contributions detailled in my [thesis](https://leovacher.github.io/files/Thesis-Vacher.pdf).
 
 ## Other
 

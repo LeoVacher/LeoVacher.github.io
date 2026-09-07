@@ -7,6 +7,7 @@ author_profile: true
 
 ### Talks and posters
 
+- **Talk**. 2026. [GDR CoPhy Episode 4](https://indico.ijclab.in2p3.fr/event/13091/)
 - **Invited talk**. 2025. [CMB B-mode-NEXT Workshop](https://indico.in2p3.fr/event/34780/timetable/). Tsukuba, Japan.
 - **Talk**. 2025. [Pan-Experiment Galactic Science Group](https://galsci.github.io/). Online.
 - **Invited talk**. 2024. [Parity from home](https://parity.cosmodiscussion.com/). Online. [Video](https://www.youtube.com/watch?v=9fHHnhGCYSo&t=1s).
