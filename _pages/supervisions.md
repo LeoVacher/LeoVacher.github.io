@@ -15,11 +15,13 @@ author_profile: true
 
 ## Internship supervisions
 
-- **E. Goutaudier (M2 - 6 months, IJCLab)** - Using moment expansion in map space for $B$-mode component separation.
+- **E. Goutaudier (M2 - 6 months, IJCLab)** - Using moment expansion in map space for $B$-mode component separation. Co-supervised with M. Tristram, S. Henrot-Versille and C. Leloup.
 
-- **L. Werozub (M2 - 6 months, IJCLab)** - Constraining variations of the fundamental constants with the CMB.
+- **L. Werozub (M2 - 6 months, IJCLab)** - Constraining variations of the fundamental constants with the CMB. Co-supervised with M. Tristram, S. Henrot-Versille and C. Leloup.
 
-- **A. Dupont-Latapie (M1 - 2 months, IJCLab)** - Studying spectral distortions of the CMB and of the foregrounds. 
+- **A. Dupont-Latapie (M1 - 2 months, IJCLab)** - Studying spectral distortions of the CMB and of the foregrounds.  Co-supervised with T. Louis.
+
+- **W. Decochereaux (M2 - 6 months, LUMP, Montpellier)** - Caractérisation de l’origine des fluctuations des propriétés des poussières interstellaires en émission : modèles vs données Planck-DIRBE-IRAS. Co-supervised with V. Guillet.
 
 - **J. Delhomelle (L2 - 2 months, IRAP)** - Solving cosmological tensions with scalar field induced variations of fundamental constants. Lead to an [outreach publication](https://yolonomy.github.io/cosmo/cosmo/friedmann/).
 
